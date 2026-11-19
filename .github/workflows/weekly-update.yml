@@ -1,0 +1,45 @@
+name: weekly-update
+
+on:
+  schedule:
+    # 毎週月曜 08:00 JST = 日曜 23:00 UTC (GitHub Actions の cron は UTC)。数分〜数十分遅れることがある。
+    - cron: "0 23 * * 0"
+  workflow_dispatch: {}   # 手動実行(動作確認・取りこぼしの再実行用)
+
+permissions:
+  contents: write
+
+concurrency:
+  group: weekly-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: 新しい節と延期試合を公式から取得して追記
+        run: python3 scripts/fetch_starters.py --update data/starters.json
+
+      - name: 検証(先発6人・セット数・検証例)
+        run: python3 scripts/verify.py
+
+      - name: index.html を再生成
+        run: python3 build.py
+
+      - name: 変更があればコミットしてプッシュ
+        run: |
+          if [ -z "$(git status --porcelain)" ]; then
+            echo "変更なし"; exit 0
+          fi
+          git config user.name  "svleague-starters-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/starters.json index.html
+          git commit -m "データ更新: $(date -u -d '9 hours' +%Y-%m-%d) 週次取り込み"
+          git push
