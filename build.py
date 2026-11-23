@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 """data/starters.json を compact 形式に変換し、template.html の `var MATCHES = [...];` を置換して index.html を出力する。"""
+import hashlib
 import json
 import re
 import sys
@@ -37,6 +38,8 @@ def main():
     new, n = re.subn(r"var MATCHES = \[.*?\];", lambda _: "var MATCHES = " + payload + ";", tpl, count=1, flags=re.S)
     if n != 1:
         sys.exit("template.html に `var MATCHES = [...];` が見つからない")
+    build = hashlib.sha1(payload.encode("utf-8")).hexdigest()[:12]
+    new = new.replace('var BUILD = "";', 'var BUILD = "%s";' % build, 1)
     (ROOT / "index.html").write_text(new, encoding="utf-8")
     print("index.html を出力: %d試合 / %d bytes" % (len(matches), len(new.encode("utf-8"))))
 

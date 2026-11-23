@@ -73,6 +73,7 @@ footer{max-width:760px;margin:0 auto;padding:0 16px 32px;color:var(--sub);font-s
 <footer>データ出典：SVリーグ公式サイトの公式帳票（帳票B／A）。コート図はポジション1が右下、反時計回りに1→6。上段が前衛(4・3・2)、下段が後衛(5・6・1)。紺の丸が先発、橙のLがリベロ。</footer>
 <script>
 var MATCHES = [];
+var BUILD = "";
 </script>
 <script>
 (function(){
@@ -149,6 +150,20 @@ var MATCHES = [];
     });
     $("main").innerHTML=out;
   }
+  // ホーム画面アプリ対策: 前面に戻ったとき最新版を確認し、変わっていれば再読み込み
+  (function(){
+    var last=0;
+    function check(){
+      var now=Date.now(); if(now-last<30000||!BUILD) return; last=now;
+      fetch(location.pathname+"?t="+now,{cache:"no-store"}).then(function(r){return r.text()}).then(function(h){
+        var m=h.match(/var BUILD = "([0-9a-f]*)";/);
+        if(m&&m[1]&&m[1]!==BUILD) location.reload();
+      }).catch(function(){});
+    }
+    document.addEventListener("visibilitychange",function(){if(!document.hidden)check()});
+    window.addEventListener("pageshow",check);
+    window.addEventListener("focus",check);
+  })();
   renderPicker(); render();
 })();
 </script>
