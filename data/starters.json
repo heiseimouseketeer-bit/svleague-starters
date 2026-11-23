@@ -32207,6 +32207,6738 @@
    "detail_url": "https://www.svleague.jp/match/detail/37497/",
    "form_b_url": "https://www.svleague.jp/match/form/?id=37497&sheet=b",
    "lineups": []
+  },
+  {
+   "id": 37498,
+   "round": 6,
+   "game": 1,
+   "date": "2026-11-21",
+   "weekday": "土",
+   "home": "デンソーエアリービーズ",
+   "away": "NECレッドロケッツ川崎",
+   "venue": "ダイセンアリーナ西尾",
+   "venue_note": "",
+   "status": "played",
+   "home_sets": 1,
+   "away_sets": 3,
+   "set_scores": [
+    "26-24",
+    "19-25",
+    "18-25",
+    "16-25"
+   ],
+   "note": "",
+   "detail_url": "https://www.svleague.jp/match/detail/37498/",
+   "form_b_url": "https://www.svleague.jp/match/form/?id=37498&sheet=b",
+   "lineups": [
+    {
+     "team": "デンソーエアリービーズ",
+     "set": 1,
+     "starters": [
+      {
+       "position": 1,
+       "number": 17,
+       "name": "イェーモンミャ"
+      },
+      {
+       "position": 2,
+       "number": 15,
+       "name": "柳 千嘉"
+      },
+      {
+       "position": 3,
+       "number": 10,
+       "name": "石倉 沙姫"
+      },
+      {
+       "position": 4,
+       "number": 11,
+       "name": "アマンダ・ダニエラ・コネオ・カルドナ"
+      },
+      {
+       "position": 5,
+       "number": 25,
+       "name": "瀬戸 杏華"
+      },
+      {
+       "position": 6,
+       "number": 12,
+       "name": "ロベルタ・シルバ・ハッツケ"
+      }
+     ],
+     "grid": {
+      "top_row_numbers": [
+       11,
+       10,
+       15
+      ],
+      "bottom_row_numbers": [
+       25,
+       12,
+       17
+      ]
+     },
+     "liberos": [
+      {
+       "number": 4,
+       "name": "川畑 遥奈",
+       "flag": "▲"
+      }
+     ],
+     "note": ""
+    },
+    {
+     "team": "デンソーエアリービーズ",
+     "set": 2,
+     "starters": [
+      {
+       "position": 1,
+       "number": 12,
+       "name": "ロベルタ・シルバ・ハッツケ"
+      },
+      {
+       "position": 2,
+       "number": 17,
+       "name": "イェーモンミャ"
+      },
+      {
+       "position": 3,
+       "number": 22,
+       "name": "大﨑 琴未"
+      },
+      {
+       "position": 4,
+       "number": 10,
+       "name": "石倉 沙姫"
+      },
+      {
+       "position": 5,
+       "number": 11,
+       "name": "アマンダ・ダニエラ・コネオ・カルドナ"
+      },
+      {
+       "position": 6,
+       "number": 25,
+       "name": "瀬戸 杏華"
+      }
+     ],
+     "grid": {
+      "top_row_numbers": [
+       10,
+       22,
+       17
+      ],
+      "bottom_row_numbers": [
+       11,
+       25,
+       12
+      ]
+     },
+     "liberos": [
+      {
+       "number": 4,
+       "name": "川畑 遥奈",
+       "flag": "▲"
+      }
+     ],
+     "note": ""
+    },
+    {
+     "team": "デンソーエアリービーズ",
+     "set": 3,
+     "starters": [
+      {
+       "position": 1,
+       "number": 17,
+       "name": "イェーモンミャ"
+      },
+      {
+       "position": 2,
+       "number": 22,
+       "name": "大﨑 琴未"
+      },
+      {
+       "position": 3,
+       "number": 10,
+       "name": "石倉 沙姫"
+      },
+      {
+       "position": 4,
+       "number": 11,
+       "name": "アマンダ・ダニエラ・コネオ・カルドナ"
+      },
+      {
+       "position": 5,
+       "number": 25,
+       "name": "瀬戸 杏華"
+      },
+      {
+       "position": 6,
+       "number": 12,
+       "name": "ロベルタ・シルバ・ハッツケ"
+      }
+     ],
+     "grid": {
+      "top_row_numbers": [
+       11,
+       10,
+       22
+      ],
+      "bottom_row_numbers": [
+       25,
+       12,
+       17
+      ]
+     },
+     "liberos": [
+      {
+       "number": 4,
+       "name": "川畑 遥奈",
+       "flag": "▲"
+      }
+     ],
+     "note": ""
+    },
+    {
+     "team": "デンソーエアリービーズ",
+     "set": 4,
+     "starters": [
+      {
+       "position": 1,
+       "number": 1,
+       "name": "山下 晴奈"
+      },
+      {
+       "position": 2,
+       "number": 22,
+       "name": "大﨑 琴未"
+      },
+      {
+       "position": 3,
+       "number": 10,
+       "name": "石倉 沙姫"
+      },
+      {
+       "position": 4,
+       "number": 8,
+       "name": "中元 南"
+      },
+      {
+       "position": 5,
+       "number": 25,
+       "name": "瀬戸 杏華"
+      },
+      {
+       "position": 6,
+       "number": 12,
+       "name": "ロベルタ・シルバ・ハッツケ"
+      }
+     ],
+     "grid": {
+      "top_row_numbers": [
+       8,
+       10,
+       22
+      ],
+      "bottom_row_numbers": [
+       25,
+       12,
+       1
+      ]
+     },
+     "liberos": [
+      {
+       "number": 4,
+       "name": "川畑 遥奈",
+       "flag": "▲"
+      }
+     ],
+     "note": ""
+    },
+    {
+     "team": "NECレッドロケッツ川崎",
+     "set": 1,
+     "starters": [
+      {
+       "position": 1,
+       "number": 10,
+       "name": "中川 つかさ"
+      },
+      {
+       "position": 2,
+       "number": 4,
+       "name": "廣田 あい"
+      },
+      {
+       "position": 3,
+       "number": 7,
+       "name": "甲 萌香"
+      },
+      {
+       "position": 4,
+       "number": 15,
+       "name": "シルビア・チネロ・ヌワカロール"
+      },
+      {
+       "position": 5,
+       "number": 18,
+       "name": "シアラ・モーガン・ディーベル"
+      },
+      {
+       "position": 6,
+       "number": 22,
+       "name": "イ ダヒョン"
+      }
+     ],
+     "grid": {
+      "top_row_numbers": [
+       15,
+       7,
+       4
+      ],
+      "bottom_row_numbers": [
+       18,
+       22,
+       10
+      ]
+     },
+     "liberos": [
+      {
+       "number": 3,
+       "name": "大工園 彩夏",
+       "flag": "▲"
+      }
+     ],
+     "note": ""
+    },
+    {
+     "team": "NECレッドロケッツ川崎",
+     "set": 2,
+     "starters": [
+      {
+       "position": 1,
+       "number": 10,
+       "name": "中川 つかさ"
+      },
+      {
+       "position": 2,
+       "number": 4,
+       "name": "廣田 あい"
+      },
+      {
+       "position": 3,
+       "number": 7,
+       "name": "甲 萌香"
+      },
+      {
+       "position": 4,
+       "number": 15,
+       "name": "シルビア・チネロ・ヌワカロール"
+      },
+      {
+       "position": 5,
+       "number": 18,
+       "name": "シアラ・モーガン・ディーベル"
+      },
+      {
+       "position": 6,
+       "number": 1,
+       "name": "山田 二千華"
+      }
+     ],
+     "grid": {
+      "top_row_numbers": [
+       15,
+       7,
+       4
+      ],
+      "bottom_row_numbers": [
+       18,
+       1,
+       10
+      ]
+     },
+     "liberos": [
+      {
+       "number": 3,
+       "name": "大工園 彩夏",
+       "flag": "▲"
+      }
+     ],
+     "note": ""
+    },
+    {
+     "team": "NECレッドロケッツ川崎",
+     "set": 3,
+     "starters": [
+      {
+       "position": 1,
+       "number": 4,
+       "name": "廣田 あい"
+      },
+      {
+       "position": 2,
+       "number": 7,
+       "name": "甲 萌香"
+      },
+      {
+       "position": 3,
+       "number": 15,
+       "name": "シルビア・チネロ・ヌワカロール"
+      },
+      {
+       "position": 4,
+       "number": 18,
+       "name": "シアラ・モーガン・ディーベル"
+      },
+      {
+       "position": 5,
+       "number": 1,
+       "name": "山田 二千華"
+      },
+      {
+       "position": 6,
+       "number": 10,
+       "name": "中川 つかさ"
+      }
+     ],
+     "grid": {
+      "top_row_numbers": [
+       18,
+       15,
+       7
+      ],
+      "bottom_row_numbers": [
+       1,
+       10,
+       4
+      ]
+     },
+     "liberos": [
+      {
+       "number": 3,
+       "name": "大工園 彩夏",
+       "flag": "▲"
+      }
+     ],
+     "note": ""
+    },
+    {
+     "team": "NECレッドロケッツ川崎",
+     "set": 4,
+     "starters": [
+      {
+       "position": 1,
+       "number": 10,
+       "name": "中川 つかさ"
+      },
+      {
+       "position": 2,
+       "number": 4,
+       "name": "廣田 あい"
+      },
+      {
+       "position": 3,
+       "number": 7,
+       "name": "甲 萌香"
+      },
+      {
+       "position": 4,
+       "number": 15,
+       "name": "シルビア・チネロ・ヌワカロール"
+      },
+      {
+       "position": 5,
+       "number": 18,
+       "name": "シアラ・モーガン・ディーベル"
+      },
+      {
+       "position": 6,
+       "number": 1,
+       "name": "山田 二千華"
+      }
+     ],
+     "grid": {
+      "top_row_numbers": [
+       15,
+       7,
+       4
+      ],
+      "bottom_row_numbers": [
+       18,
+       1,
+       10
+      ]
+     },
+     "liberos": [
+      {
+       "number": 3,
+       "name": "大工園 彩夏",
+       "flag": "▲"
+      }
+     ],
+     "note": ""
+    }
+   ]
+  },
+  {
+   "id": 37500,
+   "round": 6,
+   "game": 1,
+   "date": "2026-11-21",
+   "weekday": "土",
+   "home": "Astemoリヴァーレ茨城",
+   "away": "ヴィクトリーナ姫路",
+   "venue": "ひたちなか市総合運動公園総合体育館",
+   "venue_note": "",
+   "status": "played",
+   "home_sets": 1,
+   "away_sets": 3,
+   "set_scores": [
+    "22-25",
+    "25-20",
+    "23-25",
+    "21-25"
+   ],
+   "note": "",
+   "detail_url": "https://www.svleague.jp/match/detail/37500/",
+   "form_b_url": "https://www.svleague.jp/match/form/?id=37500&sheet=b",
+   "lineups": [
+    {
+     "team": "Astemoリヴァーレ茨城",
+     "set": 1,
+     "starters": [
+      {
+       "position": 1,
+       "number": 2,
+       "name": "藤倉 由貴"
+      },
+      {
+       "position": 2,
+       "number": 1,
+       "name": "上坂 瑠子"
+      },
+      {
+       "position": 3,
+       "number": 19,
+       "name": "ボジャナ・ブティガン"
+      },
+      {
+       "position": 4,
+       "number": 6,
+       "name": "ダニエル・カッティーノ"
+      },
+      {
+       "position": 5,
+       "number": 31,
+       "name": "エリア・ルビン"
+      },
+      {
+       "position": 6,
+       "number": 17,
+       "name": "渡邊 彩"
+      }
+     ],
+     "grid": {
+      "top_row_numbers": [
+       6,
+       19,
+       1
+      ],
+      "bottom_row_numbers": [
+       31,
+       17,
+       2
+      ]
+     },
+     "liberos": [
+      {
+       "number": 7,
+       "name": "德本 歩未香",
+       "flag": "▲"
+      }
+     ],
+     "note": ""
+    },
+    {
+     "team": "Astemoリヴァーレ茨城",
+     "set": 2,
+     "starters": [
+      {
+       "position": 1,
+       "number": 2,
+       "name": "藤倉 由貴"
+      },
+      {
+       "position": 2,
+       "number": 1,
+       "name": "上坂 瑠子"
+      },
+      {
+       "position": 3,
+       "number": 19,
+       "name": "ボジャナ・ブティガン"
+      },
+      {
+       "position": 4,
+       "number": 6,
+       "name": "ダニエル・カッティーノ"
+      },
+      {
+       "position": 5,
+       "number": 31,
+       "name": "エリア・ルビン"
+      },
+      {
+       "position": 6,
+       "number": 17,
+       "name": "渡邊 彩"
+      }
+     ],
+     "grid": {
+      "top_row_numbers": [
+       6,
+       19,
+       1
+      ],
+      "bottom_row_numbers": [
+       31,
+       17,
+       2
+      ]
+     },
+     "liberos": [
+      {
+       "number": 7,
+       "name": "德本 歩未香",
+       "flag": "▲"
+      }
+     ],
+     "note": ""
+    },
+    {
+     "team": "Astemoリヴァーレ茨城",
+     "set": 3,
+     "starters": [
+      {
+       "position": 1,
+       "number": 2,
+       "name": "藤倉 由貴"
+      },
+      {
+       "position": 2,
+       "number": 1,
+       "name": "上坂 瑠子"
+      },
+      {
+       "position": 3,
+       "number": 19,
+       "name": "ボジャナ・ブティガン"
+      },
+      {
+       "position": 4,
+       "number": 6,
+       "name": "ダニエル・カッティーノ"
+      },
+      {
+       "position": 5,
+       "number": 31,
+       "name": "エリア・ルビン"
+      },
+      {
+       "position": 6,
+       "number": 17,
+       "name": "渡邊 彩"
+      }
+     ],
+     "grid": {
+      "top_row_numbers": [
+       6,
+       19,
+       1
+      ],
+      "bottom_row_numbers": [
+       31,
+       17,
+       2
+      ]
+     },
+     "liberos": [
+      {
+       "number": 7,
+       "name": "德本 歩未香",
+       "flag": "▲"
+      }
+     ],
+     "note": ""
+    },
+    {
+     "team": "Astemoリヴァーレ茨城",
+     "set": 4,
+     "starters": [
+      {
+       "position": 1,
+       "number": 2,
+       "name": "藤倉 由貴"
+      },
+      {
+       "position": 2,
+       "number": 1,
+       "name": "上坂 瑠子"
+      },
+      {
+       "position": 3,
+       "number": 19,
+       "name": "ボジャナ・ブティガン"
+      },
+      {
+       "position": 4,
+       "number": 6,
+       "name": "ダニエル・カッティーノ"
+      },
+      {
+       "position": 5,
+       "number": 31,
+       "name": "エリア・ルビン"
+      },
+      {
+       "position": 6,
+       "number": 17,
+       "name": "渡邊 彩"
+      }
+     ],
+     "grid": {
+      "top_row_numbers": [
+       6,
+       19,
+       1
+      ],
+      "bottom_row_numbers": [
+       31,
+       17,
+       2
+      ]
+     },
+     "liberos": [
+      {
+       "number": 7,
+       "name": "德本 歩未香",
+       "flag": "▲"
+      }
+     ],
+     "note": ""
+    },
+    {
+     "team": "ヴィクトリーナ姫路",
+     "set": 1,
+     "starters": [
+      {
+       "position": 1,
+       "number": 12,
+       "name": "野中 瑠衣"
+      },
+      {
+       "position": 2,
+       "number": 5,
+       "name": "伊藤 麻緒"
+      },
+      {
+       "position": 3,
+       "number": 3,
+       "name": "田中 咲希"
+      },
+      {
+       "position": 4,
+       "number": 18,
+       "name": "カミーラ・ミンガルディ"
+      },
+      {
+       "position": 5,
+       "number": 7,
+       "name": "ミラ・ケアシミロヴァ・トドロヴァ"
+      },
+      {
+       "position": 6,
+       "number": 8,
+       "name": "大島 杏花"
+      }
+     ],
+     "grid": {
+      "top_row_numbers": [
+       18,
+       3,
+       5
+      ],
+      "bottom_row_numbers": [
+       7,
+       8,
+       12
+      ]
+     },
+     "liberos": [
+      {
+       "number": 13,
+       "name": "福留 慧美",
+       "flag": "▲"
+      }
+     ],
+     "note": ""
+    },
+    {
+     "team": "ヴィクトリーナ姫路",
+     "set": 2,
+     "starters": [
+      {
+       "position": 1,
+       "number": 12,
+       "name": "野中 瑠衣"
+      },
+      {
+       "position": 2,
+       "number": 5,
+       "name": "伊藤 麻緒"
+      },
+      {
+       "position": 3,
+       "number": 3,
+       "name": "田中 咲希"
+      },
+      {
+       "position": 4,
+       "number": 18,
+       "name": "カミーラ・ミンガルディ"
+      },
+      {
+       "position": 5,
+       "number": 7,
+       "name": "ミラ・ケアシミロヴァ・トドロヴァ"
+      },
+      {
+       "position": 6,
+       "number": 8,
+       "name": "大島 杏花"
+      }
+     ],
+     "grid": {
+      "top_row_numbers": [
+       18,
+       3,
+       5
+      ],
+      "bottom_row_numbers": [
+       7,
+       8,
+       12
+      ]
+     },
+     "liberos": [
+      {
+       "number": 13,
+       "name": "福留 慧美",
+       "flag": "▲"
+      }
+     ],
+     "note": ""
+    },
+    {
+     "team": "ヴィクトリーナ姫路",
+     "set": 3,
+     "starters": [
+      {
+       "position": 1,
+       "number": 12,
+       "name": "野中 瑠衣"
+      },
+      {
+       "position": 2,
+       "number": 5,
+       "name": "伊藤 麻緒"
+      },
+      {
+       "position": 3,
+       "number": 3,
+       "name": "田中 咲希"
+      },
+      {
+       "position": 4,
+       "number": 18,
+       "name": "カミーラ・ミンガルディ"
+      },
+      {
+       "position": 5,
+       "number": 7,
+       "name": "ミラ・ケアシミロヴァ・トドロヴァ"
+      },
+      {
+       "position": 6,
+       "number": 8,
+       "name": "大島 杏花"
+      }
+     ],
+     "grid": {
+      "top_row_numbers": [
+       18,
+       3,
+       5
+      ],
+      "bottom_row_numbers": [
+       7,
+       8,
+       12
+      ]
+     },
+     "liberos": [
+      {
+       "number": 13,
+       "name": "福留 慧美",
+       "flag": "▲"
+      }
+     ],
+     "note": ""
+    },
+    {
+     "team": "ヴィクトリーナ姫路",
+     "set": 4,
+     "starters": [
+      {
+       "position": 1,
+       "number": 8,
+       "name": "大島 杏花"
+      },
+      {
+       "position": 2,
+       "number": 12,
+       "name": "野中 瑠衣"
+      },
+      {
+       "position": 3,
+       "number": 5,
+       "name": "伊藤 麻緒"
+      },
+      {
+       "position": 4,
+       "number": 3,
+       "name": "田中 咲希"
+      },
+      {
+       "position": 5,
+       "number": 18,
+       "name": "カミーラ・ミンガルディ"
+      },
+      {
+       "position": 6,
+       "number": 7,
+       "name": "ミラ・ケアシミロヴァ・トドロヴァ"
+      }
+     ],
+     "grid": {
+      "top_row_numbers": [
+       3,
+       5,
+       12
+      ],
+      "bottom_row_numbers": [
+       18,
+       7,
+       8
+      ]
+     },
+     "liberos": [
+      {
+       "number": 13,
+       "name": "福留 慧美",
+       "flag": "▲"
+      }
+     ],
+     "note": ""
+    }
+   ]
+  },
+  {
+   "id": 37502,
+   "round": 6,
+   "game": 1,
+   "date": "2026-11-21",
+   "weekday": "土",
+   "home": "群馬グリーンウイングス",
+   "away": "アリーザ愛知",
+   "venue": "ヤマト市民体育館前橋",
+   "venue_note": "",
+   "status": "played",
+   "home_sets": 1,
+   "away_sets": 3,
+   "set_scores": [
+    "25-16",
+    "18-25",
+    "22-25",
+    "17-25"
+   ],
+   "note": "",
+   "detail_url": "https://www.svleague.jp/match/detail/37502/",
+   "form_b_url": "https://www.svleague.jp/match/form/?id=37502&sheet=b",
+   "lineups": [
+    {
+     "team": "群馬グリーンウイングス",
+     "set": 1,
+     "starters": [
+      {
+       "position": 1,
+       "number": 9,
+       "name": "山下 遥香"
+      },
+      {
+       "position": 2,
+       "number": 10,
+       "name": "オリビア・ロジャンスキ"
+      },
+      {
+       "position": 3,
+       "number": 15,
+       "name": "ヨバナ・ステバノビッチ"
+      },
+      {
+       "position": 4,
+       "number": 1,
+       "name": "アリーナ・ポポワ"
+      },
+      {
+       "position": 5,
+       "number": 3,
+       "name": "志摩 美古都"
+      },
+      {
+       "position": 6,
+       "number": 11,
+       "name": "島村 春世"
+      }
+     ],
+     "grid": {
+      "top_row_numbers": [
+       1,
+       15,
+       10
+      ],
+      "bottom_row_numbers": [
+       3,
+       11,
+       9
+      ]
+     },
+     "liberos": [
+      {
+       "number": 22,
+       "name": "西川 さくら",
+       "flag": "▲"
+      },
+      {
+       "number": 29,
+       "name": "門田 湖都",
+       "flag": "▲"
+      }
+     ],
+     "note": ""
+    },
+    {
+     "team": "群馬グリーンウイングス",
+     "set": 2,
+     "starters": [
+      {
+       "position": 1,
+       "number": 9,
+       "name": "山下 遥香"
+      },
+      {
+       "position": 2,
+       "number": 10,
+       "name": "オリビア・ロジャンスキ"
+      },
+      {
+       "position": 3,
+       "number": 15,
+       "name": "ヨバナ・ステバノビッチ"
+      },
+      {
+       "position": 4,
+       "number": 1,
+       "name": "アリーナ・ポポワ"
+      },
+      {
+       "position": 5,
+       "number": 3,
+       "name": "志摩 美古都"
+      },
+      {
+       "position": 6,
+       "number": 11,
+       "name": "島村 春世"
+      }
+     ],
+     "grid": {
+      "top_row_numbers": [
+       1,
+       15,
+       10
+      ],
+      "bottom_row_numbers": [
+       3,
+       11,
+       9
+      ]
+     },
+     "liberos": [
+      {
+       "number": 22,
+       "name": "西川 さくら",
+       "flag": "▲"
+      },
+      {
+       "number": 29,
+       "name": "門田 湖都",
+       "flag": "▲"
+      }
+     ],
+     "note": ""
+    },
+    {
+     "team": "群馬グリーンウイングス",
+     "set": 3,
+     "starters": [
+      {
+       "position": 1,
+       "number": 9,
+       "name": "山下 遥香"
+      },
+      {
+       "position": 2,
+       "number": 10,
+       "name": "オリビア・ロジャンスキ"
+      },
+      {
+       "position": 3,
+       "number": 15,
+       "name": "ヨバナ・ステバノビッチ"
+      },
+      {
+       "position": 4,
+       "number": 1,
+       "name": "アリーナ・ポポワ"
+      },
+      {
+       "position": 5,
+       "number": 3,
+       "name": "志摩 美古都"
+      },
+      {
+       "position": 6,
+       "number": 11,
+       "name": "島村 春世"
+      }
+     ],
+     "grid": {
+      "top_row_numbers": [
+       1,
+       15,
+       10
+      ],
+      "bottom_row_numbers": [
+       3,
+       11,
+       9
+      ]
+     },
+     "liberos": [
+      {
+       "number": 22,
+       "name": "西川 さくら",
+       "flag": "▲"
+      },
+      {
+       "number": 29,
+       "name": "門田 湖都",
+       "flag": "▲"
+      }
+     ],
+     "note": ""
+    },
+    {
+     "team": "群馬グリーンウイングス",
+     "set": 4,
+     "starters": [
+      {
+       "position": 1,
+       "number": 20,
+       "name": "永井 いづみ"
+      },
+      {
+       "position": 2,
+       "number": 10,
+       "name": "オリビア・ロジャンスキ"
+      },
+      {
+       "position": 3,
+       "number": 15,
+       "name": "ヨバナ・ステバノビッチ"
+      },
+      {
+       "position": 4,
+       "number": 16,
+       "name": "ジャン・ティ・タン・トゥイー"
+      },
+      {
+       "position": 5,
+       "number": 3,
+       "name": "志摩 美古都"
+      },
+      {
+       "position": 6,
+       "number": 11,
+       "name": "島村 春世"
+      }
+     ],
+     "grid": {
+      "top_row_numbers": [
+       16,
+       15,
+       10
+      ],
+      "bottom_row_numbers": [
+       3,
+       11,
+       20
+      ]
+     },
+     "liberos": [
+      {
+       "number": 22,
+       "name": "西川 さくら",
+       "flag": "▲"
+      },
+      {
+       "number": 29,
+       "name": "門田 湖都",
+       "flag": "▲"
+      }
+     ],
+     "note": ""
+    },
+    {
+     "team": "アリーザ愛知",
+     "set": 1,
+     "starters": [
+      {
+       "position": 1,
+       "number": 4,
+       "name": "笠井 季璃"
+      },
+      {
+       "position": 2,
+       "number": 21,
+       "name": "ヒネイリー・マルティネス"
+      },
+      {
+       "position": 3,
+       "number": 8,
+       "name": "佐藤 彩乃"
+      },
+      {
+       "position": 4,
+       "number": 14,
+       "name": "ラウラ・クンズラー"
+      },
+      {
+       "position": 5,
+       "number": 17,
+       "name": "中田 藍美"
+      },
+      {
+       "position": 6,
+       "number": 6,
+       "name": "リンジー・ラディンズ"
+      }
+     ],
+     "grid": {
+      "top_row_numbers": [
+       14,
+       8,
+       21
+      ],
+      "bottom_row_numbers": [
+       17,
+       6,
+       4
+      ]
+     },
+     "liberos": [
+      {
+       "number": 12,
+       "name": "中村 悠",
+       "flag": "▲"
+      }
+     ],
+     "note": ""
+    },
+    {
+     "team": "アリーザ愛知",
+     "set": 2,
+     "starters": [
+      {
+       "position": 1,
+       "number": 8,
+       "name": "佐藤 彩乃"
+      },
+      {
+       "position": 2,
+       "number": 14,
+       "name": "ラウラ・クンズラー"
+      },
+      {
+       "position": 3,
+       "number": 5,
+       "name": "横田 紗椰香"
+      },
+      {
+       "position": 4,
+       "number": 6,
+       "name": "リンジー・ラディンズ"
+      },
+      {
+       "position": 5,
+       "number": 1,
+       "name": "鴫原 ひなた"
+      },
+      {
+       "position": 6,
+       "number": 21,
+       "name": "ヒネイリー・マルティネス"
+      }
+     ],
+     "grid": {
+      "top_row_numbers": [
+       6,
+       5,
+       14
+      ],
+      "bottom_row_numbers": [
+       1,
+       21,
+       8
+      ]
+     },
+     "liberos": [
+      {
+       "number": 12,
+       "name": "中村 悠",
+       "flag": "▲"
+      }
+     ],
+     "note": ""
+    },
+    {
+     "team": "アリーザ愛知",
+     "set": 3,
+     "starters": [
+      {
+       "position": 1,
+       "number": 14,
+       "name": "ラウラ・クンズラー"
+      },
+      {
+       "position": 2,
+       "number": 5,
+       "name": "横田 紗椰香"
+      },
+      {
+       "position": 3,
+       "number": 6,
+       "name": "リンジー・ラディンズ"
+      },
+      {
+       "position": 4,
+       "number": 1,
+       "name": "鴫原 ひなた"
+      },
+      {
+       "position": 5,
+       "number": 21,
+       "name": "ヒネイリー・マルティネス"
+      },
+      {
+       "position": 6,
+       "number": 8,
+       "name": "佐藤 彩乃"
+      }
+     ],
+     "grid": {
+      "top_row_numbers": [
+       1,
+       6,
+       5
+      ],
+      "bottom_row_numbers": [
+       21,
+       8,
+       14
+      ]
+     },
+     "liberos": [
+      {
+       "number": 12,
+       "name": "中村 悠",
+       "flag": "▲"
+      }
+     ],
+     "note": ""
+    },
+    {
+     "team": "アリーザ愛知",
+     "set": 4,
+     "starters": [
+      {
+       "position": 1,
+       "number": 8,
+       "name": "佐藤 彩乃"
+      },
+      {
+       "position": 2,
+       "number": 14,
+       "name": "ラウラ・クンズラー"
+      },
+      {
+       "position": 3,
+       "number": 5,
+       "name": "横田 紗椰香"
+      },
+      {
+       "position": 4,
+       "number": 6,
+       "name": "リンジー・ラディンズ"
+      },
+      {
+       "position": 5,
+       "number": 1,
+       "name": "鴫原 ひなた"
+      },
+      {
+       "position": 6,
+       "number": 21,
+       "name": "ヒネイリー・マルティネス"
+      }
+     ],
+     "grid": {
+      "top_row_numbers": [
+       6,
+       5,
+       14
+      ],
+      "bottom_row_numbers": [
+       1,
+       21,
+       8
+      ]
+     },
+     "liberos": [
+      {
+       "number": 12,
+       "name": "中村 悠",
+       "flag": "▲"
+      }
+     ],
+     "note": ""
+    }
+   ]
+  },
+  {
+   "id": 37504,
+   "round": 6,
+   "game": 1,
+   "date": "2026-11-21",
+   "weekday": "土",
+   "home": "PFUブルーキャッツ石川かほく",
+   "away": "埼玉上尾メディックス",
+   "venue": "とり野菜みそ BLUECATS ARENA",
+   "venue_note": "",
+   "status": "played",
+   "home_sets": 3,
+   "away_sets": 2,
+   "set_scores": [
+    "28-26",
+    "22-25",
+    "25-16",
+    "22-25",
+    "15-9"
+   ],
+   "note": "",
+   "detail_url": "https://www.svleague.jp/match/detail/37504/",
+   "form_b_url": "https://www.svleague.jp/match/form/?id=37504&sheet=b",
+   "lineups": [
+    {
+     "team": "PFUブルーキャッツ石川かほく",
+     "set": 1,
+     "starters": [
+      {
+       "position": 1,
+       "number": 11,
+       "name": "松井 珠己"
+      },
+      {
+       "position": 2,
+       "number": 12,
+       "name": "上村 杏菜"
+      },
+      {
+       "position": 3,
+       "number": 1,
+       "name": "横田 真未"
+      },
+      {
+       "position": 4,
+       "number": 23,
+       "name": "バルデス メリーサ"
+      },
+      {
+       "position": 5,
+       "number": 9,
+       "name": "川添 美優"
+      },
+      {
+       "position": 6,
+       "number": 15,
+       "name": "タットダオ・ヌクジャン"
+      }
+     ],
+     "grid": {
+      "top_row_numbers": [
+       23,
+       1,
+       12
+      ],
+      "bottom_row_numbers": [
+       9,
+       15,
+       11
+      ]
+     },
+     "liberos": [
+      {
+       "number": 7,
+       "name": "舩田 璃々香",
+       "flag": "▲"
+      }
+     ],
+     "note": ""
+    },
+    {
+     "team": "PFUブルーキャッツ石川かほく",
+     "set": 2,
+     "starters": [
+      {
+       "position": 1,
+       "number": 11,
+       "name": "松井 珠己"
+      },
+      {
+       "position": 2,
+       "number": 12,
+       "name": "上村 杏菜"
+      },
+      {
+       "position": 3,
+       "number": 1,
+       "name": "横田 真未"
+      },
+      {
+       "position": 4,
+       "number": 23,
+       "name": "バルデス メリーサ"
+      },
+      {
+       "position": 5,
+       "number": 9,
+       "name": "川添 美優"
+      },
+      {
+       "position": 6,
+       "number": 15,
+       "name": "タットダオ・ヌクジャン"
+      }
+     ],
+     "grid": {
+      "top_row_numbers": [
+       23,
+       1,
+       12
+      ],
+      "bottom_row_numbers": [
+       9,
+       15,
+       11
+      ]
+     },
+     "liberos": [
+      {
+       "number": 7,
+       "name": "舩田 璃々香",
+       "flag": "▲"
+      }
+     ],
+     "note": ""
+    },
+    {
+     "team": "PFUブルーキャッツ石川かほく",
+     "set": 3,
+     "starters": [
+      {
+       "position": 1,
+       "number": 11,
+       "name": "松井 珠己"
+      },
+      {
+       "position": 2,
+       "number": 12,
+       "name": "上村 杏菜"
+      },
+      {
+       "position": 3,
+       "number": 1,
+       "name": "横田 真未"
+      },
+      {
+       "position": 4,
+       "number": 23,
+       "name": "バルデス メリーサ"
+      },
+      {
+       "position": 5,
+       "number": 8,
+       "name": "大熊 紀妙"
+      },
+      {
+       "position": 6,
+       "number": 15,
+       "name": "タットダオ・ヌクジャン"
+      }
+     ],
+     "grid": {
+      "top_row_numbers": [
+       23,
+       1,
+       12
+      ],
+      "bottom_row_numbers": [
+       8,
+       15,
+       11
+      ]
+     },
+     "liberos": [
+      {
+       "number": 7,
+       "name": "舩田 璃々香",
+       "flag": "▲"
+      }
+     ],
+     "note": ""
+    },
+    {
+     "team": "PFUブルーキャッツ石川かほく",
+     "set": 4,
+     "starters": [
+      {
+       "position": 1,
+       "number": 11,
+       "name": "松井 珠己"
+      },
+      {
+       "position": 2,
+       "number": 12,
+       "name": "上村 杏菜"
+      },
+      {
+       "position": 3,
+       "number": 1,
+       "name": "横田 真未"
+      },
+      {
+       "position": 4,
+       "number": 23,
+       "name": "バルデス メリーサ"
+      },
+      {
+       "position": 5,
+       "number": 8,
+       "name": "大熊 紀妙"
+      },
+      {
+       "position": 6,
+       "number": 15,
+       "name": "タットダオ・ヌクジャン"
+      }
+     ],
+     "grid": {
+      "top_row_numbers": [
+       23,
+       1,
+       12
+      ],
+      "bottom_row_numbers": [
+       8,
+       15,
+       11
+      ]
+     },
+     "liberos": [
+      {
+       "number": 7,
+       "name": "舩田 璃々香",
+       "flag": "▲"
+      }
+     ],
+     "note": ""
+    },
+    {
+     "team": "PFUブルーキャッツ石川かほく",
+     "set": 5,
+     "starters": [
+      {
+       "position": 1,
+       "number": 11,
+       "name": "松井 珠己"
+      },
+      {
+       "position": 2,
+       "number": 12,
+       "name": "上村 杏菜"
+      },
+      {
+       "position": 3,
+       "number": 1,
+       "name": "横田 真未"
+      },
+      {
+       "position": 4,
+       "number": 23,
+       "name": "バルデス メリーサ"
+      },
+      {
+       "position": 5,
+       "number": 8,
+       "name": "大熊 紀妙"
+      },
+      {
+       "position": 6,
+       "number": 15,
+       "name": "タットダオ・ヌクジャン"
+      }
+     ],
+     "grid": {
+      "top_row_numbers": [
+       23,
+       1,
+       12
+      ],
+      "bottom_row_numbers": [
+       8,
+       15,
+       11
+      ]
+     },
+     "liberos": [
+      {
+       "number": 7,
+       "name": "舩田 璃々香",
+       "flag": "▲"
+      }
+     ],
+     "note": ""
+    },
+    {
+     "team": "埼玉上尾メディックス",
+     "set": 1,
+     "starters": [
+      {
+       "position": 1,
+       "number": 17,
+       "name": "鎌田 咲希"
+      },
+      {
+       "position": 2,
+       "number": 6,
+       "name": "目黒 安希"
+      },
+      {
+       "position": 3,
+       "number": 18,
+       "name": "権田 寛奈"
+      },
+      {
+       "position": 4,
+       "number": 9,
+       "name": "井城 青空"
+      },
+      {
+       "position": 5,
+       "number": 8,
+       "name": "山地 梨菜"
+      },
+      {
+       "position": 6,
+       "number": 4,
+       "name": "濵松 明日香"
+      }
+     ],
+     "grid": {
+      "top_row_numbers": [
+       9,
+       18,
+       6
+      ],
+      "bottom_row_numbers": [
+       8,
+       4,
+       17
+      ]
+     },
+     "liberos": [
+      {
+       "number": 20,
+       "name": "岳野 ひかる",
+       "flag": "▲"
+      }
+     ],
+     "note": ""
+    },
+    {
+     "team": "埼玉上尾メディックス",
+     "set": 2,
+     "starters": [
+      {
+       "position": 1,
+       "number": 17,
+       "name": "鎌田 咲希"
+      },
+      {
+       "position": 2,
+       "number": 6,
+       "name": "目黒 安希"
+      },
+      {
+       "position": 3,
+       "number": 18,
+       "name": "権田 寛奈"
+      },
+      {
+       "position": 4,
+       "number": 9,
+       "name": "井城 青空"
+      },
+      {
+       "position": 5,
+       "number": 8,
+       "name": "山地 梨菜"
+      },
+      {
+       "position": 6,
+       "number": 4,
+       "name": "濵松 明日香"
+      }
+     ],
+     "grid": {
+      "top_row_numbers": [
+       9,
+       18,
+       6
+      ],
+      "bottom_row_numbers": [
+       8,
+       4,
+       17
+      ]
+     },
+     "liberos": [
+      {
+       "number": 20,
+       "name": "岳野 ひかる",
+       "flag": "▲"
+      }
+     ],
+     "note": ""
+    },
+    {
+     "team": "埼玉上尾メディックス",
+     "set": 3,
+     "starters": [
+      {
+       "position": 1,
+       "number": 17,
+       "name": "鎌田 咲希"
+      },
+      {
+       "position": 2,
+       "number": 6,
+       "name": "目黒 安希"
+      },
+      {
+       "position": 3,
+       "number": 18,
+       "name": "権田 寛奈"
+      },
+      {
+       "position": 4,
+       "number": 9,
+       "name": "井城 青空"
+      },
+      {
+       "position": 5,
+       "number": 8,
+       "name": "山地 梨菜"
+      },
+      {
+       "position": 6,
+       "number": 4,
+       "name": "濵松 明日香"
+      }
+     ],
+     "grid": {
+      "top_row_numbers": [
+       9,
+       18,
+       6
+      ],
+      "bottom_row_numbers": [
+       8,
+       4,
+       17
+      ]
+     },
+     "liberos": [
+      {
+       "number": 20,
+       "name": "岳野 ひかる",
+       "flag": "▲"
+      }
+     ],
+     "note": ""
+    },
+    {
+     "team": "埼玉上尾メディックス",
+     "set": 4,
+     "starters": [
+      {
+       "position": 1,
+       "number": 17,
+       "name": "鎌田 咲希"
+      },
+      {
+       "position": 2,
+       "number": 6,
+       "name": "目黒 安希"
+      },
+      {
+       "position": 3,
+       "number": 18,
+       "name": "権田 寛奈"
+      },
+      {
+       "position": 4,
+       "number": 9,
+       "name": "井城 青空"
+      },
+      {
+       "position": 5,
+       "number": 8,
+       "name": "山地 梨菜"
+      },
+      {
+       "position": 6,
+       "number": 4,
+       "name": "濵松 明日香"
+      }
+     ],
+     "grid": {
+      "top_row_numbers": [
+       9,
+       18,
+       6
+      ],
+      "bottom_row_numbers": [
+       8,
+       4,
+       17
+      ]
+     },
+     "liberos": [
+      {
+       "number": 20,
+       "name": "岳野 ひかる",
+       "flag": "▲"
+      }
+     ],
+     "note": ""
+    },
+    {
+     "team": "埼玉上尾メディックス",
+     "set": 5,
+     "starters": [
+      {
+       "position": 1,
+       "number": 6,
+       "name": "目黒 安希"
+      },
+      {
+       "position": 2,
+       "number": 18,
+       "name": "権田 寛奈"
+      },
+      {
+       "position": 3,
+       "number": 9,
+       "name": "井城 青空"
+      },
+      {
+       "position": 4,
+       "number": 8,
+       "name": "山地 梨菜"
+      },
+      {
+       "position": 5,
+       "number": 4,
+       "name": "濵松 明日香"
+      },
+      {
+       "position": 6,
+       "number": 17,
+       "name": "鎌田 咲希"
+      }
+     ],
+     "grid": {
+      "top_row_numbers": [
+       8,
+       9,
+       18
+      ],
+      "bottom_row_numbers": [
+       4,
+       17,
+       6
+      ]
+     },
+     "liberos": [
+      {
+       "number": 20,
+       "name": "岳野 ひかる",
+       "flag": "▲"
+      }
+     ],
+     "note": ""
+    }
+   ]
+  },
+  {
+   "id": 37506,
+   "round": 6,
+   "game": 1,
+   "date": "2026-11-21",
+   "weekday": "土",
+   "home": "東レアローズ滋賀",
+   "away": "岡山シーガルズ",
+   "venue": "滋賀ダイハツアリーナ",
+   "venue_note": "",
+   "status": "played",
+   "home_sets": 0,
+   "away_sets": 3,
+   "set_scores": [
+    "19-25",
+    "16-25",
+    "17-25"
+   ],
+   "note": "",
+   "detail_url": "https://www.svleague.jp/match/detail/37506/",
+   "form_b_url": "https://www.svleague.jp/match/form/?id=37506&sheet=b",
+   "lineups": [
+    {
+     "team": "東レアローズ滋賀",
+     "set": 1,
+     "starters": [
+      {
+       "position": 1,
+       "number": 8,
+       "name": "川副 華笑"
+      },
+      {
+       "position": 2,
+       "number": 9,
+       "name": "渡邉 かや"
+      },
+      {
+       "position": 3,
+       "number": 2,
+       "name": "ディアナ・メリューシキナ"
+      },
+      {
+       "position": 4,
+       "number": 11,
+       "name": "ジョセフィーン・オボッサ"
+      },
+      {
+       "position": 5,
+       "number": 22,
+       "name": "ヴェロニカ・シュラゴウスカ"
+      },
+      {
+       "position": 6,
+       "number": 7,
+       "name": "小川 愛里奈"
+      }
+     ],
+     "grid": {
+      "top_row_numbers": [
+       11,
+       2,
+       9
+      ],
+      "bottom_row_numbers": [
+       22,
+       7,
+       8
+      ]
+     },
+     "liberos": [
+      {
+       "number": 1,
+       "name": "松岡 芽生",
+       "flag": "▲"
+      }
+     ],
+     "note": ""
+    },
+    {
+     "team": "東レアローズ滋賀",
+     "set": 2,
+     "starters": [
+      {
+       "position": 1,
+       "number": 9,
+       "name": "渡邉 かや"
+      },
+      {
+       "position": 2,
+       "number": 15,
+       "name": "林田 愛佳"
+      },
+      {
+       "position": 3,
+       "number": 11,
+       "name": "ジョセフィーン・オボッサ"
+      },
+      {
+       "position": 4,
+       "number": 22,
+       "name": "ヴェロニカ・シュラゴウスカ"
+      },
+      {
+       "position": 5,
+       "number": 2,
+       "name": "ディアナ・メリューシキナ"
+      },
+      {
+       "position": 6,
+       "number": 8,
+       "name": "川副 華笑"
+      }
+     ],
+     "grid": {
+      "top_row_numbers": [
+       22,
+       11,
+       15
+      ],
+      "bottom_row_numbers": [
+       2,
+       8,
+       9
+      ]
+     },
+     "liberos": [
+      {
+       "number": 1,
+       "name": "松岡 芽生",
+       "flag": "▲"
+      }
+     ],
+     "note": ""
+    },
+    {
+     "team": "東レアローズ滋賀",
+     "set": 3,
+     "starters": [
+      {
+       "position": 1,
+       "number": 8,
+       "name": "川副 華笑"
+      },
+      {
+       "position": 2,
+       "number": 16,
+       "name": "結束 美南"
+      },
+      {
+       "position": 3,
+       "number": 2,
+       "name": "ディアナ・メリューシキナ"
+      },
+      {
+       "position": 4,
+       "number": 11,
+       "name": "ジョセフィーン・オボッサ"
+      },
+      {
+       "position": 5,
+       "number": 22,
+       "name": "ヴェロニカ・シュラゴウスカ"
+      },
+      {
+       "position": 6,
+       "number": 15,
+       "name": "林田 愛佳"
+      }
+     ],
+     "grid": {
+      "top_row_numbers": [
+       11,
+       2,
+       16
+      ],
+      "bottom_row_numbers": [
+       22,
+       15,
+       8
+      ]
+     },
+     "liberos": [
+      {
+       "number": 1,
+       "name": "松岡 芽生",
+       "flag": "▲"
+      }
+     ],
+     "note": ""
+    },
+    {
+     "team": "岡山シーガルズ",
+     "set": 1,
+     "starters": [
+      {
+       "position": 1,
+       "number": 1,
+       "name": "濱田 真友"
+      },
+      {
+       "position": 2,
+       "number": 33,
+       "name": "中本 柚朱"
+      },
+      {
+       "position": 3,
+       "number": 26,
+       "name": "長瀨 そら"
+      },
+      {
+       "position": 4,
+       "number": 5,
+       "name": "若泉 佳穂"
+      },
+      {
+       "position": 5,
+       "number": 2,
+       "name": "佐伯 亜魅加"
+      },
+      {
+       "position": 6,
+       "number": 27,
+       "name": "トラン・ティ・ビック・トゥイ"
+      }
+     ],
+     "grid": {
+      "top_row_numbers": [
+       5,
+       26,
+       33
+      ],
+      "bottom_row_numbers": [
+       2,
+       27,
+       1
+      ]
+     },
+     "liberos": [
+      {
+       "number": 11,
+       "name": "城戸 陽菜",
+       "flag": "▲"
+      },
+      {
+       "number": 16,
+       "name": "齋藤 麻理菜",
+       "flag": "▲"
+      }
+     ],
+     "note": ""
+    },
+    {
+     "team": "岡山シーガルズ",
+     "set": 2,
+     "starters": [
+      {
+       "position": 1,
+       "number": 1,
+       "name": "濱田 真友"
+      },
+      {
+       "position": 2,
+       "number": 33,
+       "name": "中本 柚朱"
+      },
+      {
+       "position": 3,
+       "number": 26,
+       "name": "長瀨 そら"
+      },
+      {
+       "position": 4,
+       "number": 5,
+       "name": "若泉 佳穂"
+      },
+      {
+       "position": 5,
+       "number": 2,
+       "name": "佐伯 亜魅加"
+      },
+      {
+       "position": 6,
+       "number": 27,
+       "name": "トラン・ティ・ビック・トゥイ"
+      }
+     ],
+     "grid": {
+      "top_row_numbers": [
+       5,
+       26,
+       33
+      ],
+      "bottom_row_numbers": [
+       2,
+       27,
+       1
+      ]
+     },
+     "liberos": [
+      {
+       "number": 11,
+       "name": "城戸 陽菜",
+       "flag": "▲"
+      },
+      {
+       "number": 16,
+       "name": "齋藤 麻理菜",
+       "flag": "▲"
+      }
+     ],
+     "note": ""
+    },
+    {
+     "team": "岡山シーガルズ",
+     "set": 3,
+     "starters": [
+      {
+       "position": 1,
+       "number": 1,
+       "name": "濱田 真友"
+      },
+      {
+       "position": 2,
+       "number": 33,
+       "name": "中本 柚朱"
+      },
+      {
+       "position": 3,
+       "number": 26,
+       "name": "長瀨 そら"
+      },
+      {
+       "position": 4,
+       "number": 5,
+       "name": "若泉 佳穂"
+      },
+      {
+       "position": 5,
+       "number": 2,
+       "name": "佐伯 亜魅加"
+      },
+      {
+       "position": 6,
+       "number": 27,
+       "name": "トラン・ティ・ビック・トゥイ"
+      }
+     ],
+     "grid": {
+      "top_row_numbers": [
+       5,
+       26,
+       33
+      ],
+      "bottom_row_numbers": [
+       2,
+       27,
+       1
+      ]
+     },
+     "liberos": [
+      {
+       "number": 11,
+       "name": "城戸 陽菜",
+       "flag": "▲"
+      },
+      {
+       "number": 16,
+       "name": "齋藤 麻理菜",
+       "flag": "▲"
+      }
+     ],
+     "note": ""
+    }
+   ]
+  },
+  {
+   "id": 37508,
+   "round": 6,
+   "game": 1,
+   "date": "2026-11-21",
+   "weekday": "土",
+   "home": "大阪マーヴェラス",
+   "away": "ＫＵＲＯＢＥアクアフェアリーズ富山",
+   "venue": "おおきにアリーナ舞洲",
+   "venue_note": "",
+   "status": "played",
+   "home_sets": 3,
+   "away_sets": 1,
+   "set_scores": [
+    "25-22",
+    "25-23",
+    "20-25",
+    "25-19"
+   ],
+   "note": "",
+   "detail_url": "https://www.svleague.jp/match/detail/37508/",
+   "form_b_url": "https://www.svleague.jp/match/form/?id=37508&sheet=b",
+   "lineups": [
+    {
+     "team": "大阪マーヴェラス",
+     "set": 1,
+     "starters": [
+      {
+       "position": 1,
+       "number": 6,
+       "name": "田中 瑞稀"
+      },
+      {
+       "position": 2,
+       "number": 9,
+       "name": "ブリオンヌ・バトラー"
+      },
+      {
+       "position": 3,
+       "number": 12,
+       "name": "ハンナ・オルトマン"
+      },
+      {
+       "position": 4,
+       "number": 2,
+       "name": "林 琴奈"
+      },
+      {
+       "position": 5,
+       "number": 1,
+       "name": "青柳 京古"
+      },
+      {
+       "position": 6,
+       "number": 7,
+       "name": "東 美奈"
+      }
+     ],
+     "grid": {
+      "top_row_numbers": [
+       2,
+       12,
+       9
+      ],
+      "bottom_row_numbers": [
+       1,
+       7,
+       6
+      ]
+     },
+     "liberos": [
+      {
+       "number": 10,
+       "name": "西崎 愛菜",
+       "flag": "▲"
+      }
+     ],
+     "note": ""
+    },
+    {
+     "team": "大阪マーヴェラス",
+     "set": 2,
+     "starters": [
+      {
+       "position": 1,
+       "number": 6,
+       "name": "田中 瑞稀"
+      },
+      {
+       "position": 2,
+       "number": 9,
+       "name": "ブリオンヌ・バトラー"
+      },
+      {
+       "position": 3,
+       "number": 12,
+       "name": "ハンナ・オルトマン"
+      },
+      {
+       "position": 4,
+       "number": 2,
+       "name": "林 琴奈"
+      },
+      {
+       "position": 5,
+       "number": 1,
+       "name": "青柳 京古"
+      },
+      {
+       "position": 6,
+       "number": 7,
+       "name": "東 美奈"
+      }
+     ],
+     "grid": {
+      "top_row_numbers": [
+       2,
+       12,
+       9
+      ],
+      "bottom_row_numbers": [
+       1,
+       7,
+       6
+      ]
+     },
+     "liberos": [
+      {
+       "number": 10,
+       "name": "西崎 愛菜",
+       "flag": "▲"
+      }
+     ],
+     "note": ""
+    },
+    {
+     "team": "大阪マーヴェラス",
+     "set": 3,
+     "starters": [
+      {
+       "position": 1,
+       "number": 6,
+       "name": "田中 瑞稀"
+      },
+      {
+       "position": 2,
+       "number": 9,
+       "name": "ブリオンヌ・バトラー"
+      },
+      {
+       "position": 3,
+       "number": 12,
+       "name": "ハンナ・オルトマン"
+      },
+      {
+       "position": 4,
+       "number": 2,
+       "name": "林 琴奈"
+      },
+      {
+       "position": 5,
+       "number": 1,
+       "name": "青柳 京古"
+      },
+      {
+       "position": 6,
+       "number": 7,
+       "name": "東 美奈"
+      }
+     ],
+     "grid": {
+      "top_row_numbers": [
+       2,
+       12,
+       9
+      ],
+      "bottom_row_numbers": [
+       1,
+       7,
+       6
+      ]
+     },
+     "liberos": [
+      {
+       "number": 10,
+       "name": "西崎 愛菜",
+       "flag": "▲"
+      }
+     ],
+     "note": ""
+    },
+    {
+     "team": "大阪マーヴェラス",
+     "set": 4,
+     "starters": [
+      {
+       "position": 1,
+       "number": 6,
+       "name": "田中 瑞稀"
+      },
+      {
+       "position": 2,
+       "number": 9,
+       "name": "ブリオンヌ・バトラー"
+      },
+      {
+       "position": 3,
+       "number": 12,
+       "name": "ハンナ・オルトマン"
+      },
+      {
+       "position": 4,
+       "number": 2,
+       "name": "林 琴奈"
+      },
+      {
+       "position": 5,
+       "number": 8,
+       "name": "大山 遼"
+      },
+      {
+       "position": 6,
+       "number": 7,
+       "name": "東 美奈"
+      }
+     ],
+     "grid": {
+      "top_row_numbers": [
+       2,
+       12,
+       9
+      ],
+      "bottom_row_numbers": [
+       8,
+       7,
+       6
+      ]
+     },
+     "liberos": [
+      {
+       "number": 10,
+       "name": "西崎 愛菜",
+       "flag": "▲"
+      }
+     ],
+     "note": ""
+    },
+    {
+     "team": "ＫＵＲＯＢＥアクアフェアリーズ富山",
+     "set": 1,
+     "starters": [
+      {
+       "position": 1,
+       "number": 1,
+       "name": "古市 梨乃"
+      },
+      {
+       "position": 2,
+       "number": 10,
+       "name": "山口 真季"
+      },
+      {
+       "position": 3,
+       "number": 16,
+       "name": "龔 翔宇"
+      },
+      {
+       "position": 4,
+       "number": 77,
+       "name": "ジョバンナ・デイ"
+      },
+      {
+       "position": 5,
+       "number": 7,
+       "name": "アナスタシア・リャシュコ"
+      },
+      {
+       "position": 6,
+       "number": 3,
+       "name": "オング 佳奈美"
+      }
+     ],
+     "grid": {
+      "top_row_numbers": [
+       77,
+       16,
+       10
+      ],
+      "bottom_row_numbers": [
+       7,
+       3,
+       1
+      ]
+     },
+     "liberos": [
+      {
+       "number": 17,
+       "name": "浦山 絢妃",
+       "flag": "▲"
+      }
+     ],
+     "note": ""
+    },
+    {
+     "team": "ＫＵＲＯＢＥアクアフェアリーズ富山",
+     "set": 2,
+     "starters": [
+      {
+       "position": 1,
+       "number": 3,
+       "name": "オング 佳奈美"
+      },
+      {
+       "position": 2,
+       "number": 1,
+       "name": "古市 梨乃"
+      },
+      {
+       "position": 3,
+       "number": 10,
+       "name": "山口 真季"
+      },
+      {
+       "position": 4,
+       "number": 16,
+       "name": "龔 翔宇"
+      },
+      {
+       "position": 5,
+       "number": 77,
+       "name": "ジョバンナ・デイ"
+      },
+      {
+       "position": 6,
+       "number": 7,
+       "name": "アナスタシア・リャシュコ"
+      }
+     ],
+     "grid": {
+      "top_row_numbers": [
+       16,
+       10,
+       1
+      ],
+      "bottom_row_numbers": [
+       77,
+       7,
+       3
+      ]
+     },
+     "liberos": [
+      {
+       "number": 17,
+       "name": "浦山 絢妃",
+       "flag": "▲"
+      }
+     ],
+     "note": ""
+    },
+    {
+     "team": "ＫＵＲＯＢＥアクアフェアリーズ富山",
+     "set": 3,
+     "starters": [
+      {
+       "position": 1,
+       "number": 11,
+       "name": "中川 美柚"
+      },
+      {
+       "position": 2,
+       "number": 7,
+       "name": "アナスタシア・リャシュコ"
+      },
+      {
+       "position": 3,
+       "number": 16,
+       "name": "龔 翔宇"
+      },
+      {
+       "position": 4,
+       "number": 77,
+       "name": "ジョバンナ・デイ"
+      },
+      {
+       "position": 5,
+       "number": 10,
+       "name": "山口 真季"
+      },
+      {
+       "position": 6,
+       "number": 3,
+       "name": "オング 佳奈美"
+      }
+     ],
+     "grid": {
+      "top_row_numbers": [
+       77,
+       16,
+       7
+      ],
+      "bottom_row_numbers": [
+       10,
+       3,
+       11
+      ]
+     },
+     "liberos": [
+      {
+       "number": 17,
+       "name": "浦山 絢妃",
+       "flag": "▲"
+      }
+     ],
+     "note": ""
+    },
+    {
+     "team": "ＫＵＲＯＢＥアクアフェアリーズ富山",
+     "set": 4,
+     "starters": [
+      {
+       "position": 1,
+       "number": 11,
+       "name": "中川 美柚"
+      },
+      {
+       "position": 2,
+       "number": 7,
+       "name": "アナスタシア・リャシュコ"
+      },
+      {
+       "position": 3,
+       "number": 16,
+       "name": "龔 翔宇"
+      },
+      {
+       "position": 4,
+       "number": 77,
+       "name": "ジョバンナ・デイ"
+      },
+      {
+       "position": 5,
+       "number": 10,
+       "name": "山口 真季"
+      },
+      {
+       "position": 6,
+       "number": 3,
+       "name": "オング 佳奈美"
+      }
+     ],
+     "grid": {
+      "top_row_numbers": [
+       77,
+       16,
+       7
+      ],
+      "bottom_row_numbers": [
+       10,
+       3,
+       11
+      ]
+     },
+     "liberos": [
+      {
+       "number": 17,
+       "name": "浦山 絢妃",
+       "flag": "▲"
+      }
+     ],
+     "note": ""
+    }
+   ]
+  },
+  {
+   "id": 37510,
+   "round": 6,
+   "game": 1,
+   "date": "2026-11-21",
+   "weekday": "土",
+   "home": "SAGA久光スプリングス",
+   "away": "アランマーレ秋田庄内",
+   "venue": "SAGAアリーナ",
+   "venue_note": "",
+   "status": "played",
+   "home_sets": 3,
+   "away_sets": 0,
+   "set_scores": [
+    "25-17",
+    "26-24",
+    "25-19"
+   ],
+   "note": "",
+   "detail_url": "https://www.svleague.jp/match/detail/37510/",
+   "form_b_url": "https://www.svleague.jp/match/form/?id=37510&sheet=b",
+   "lineups": [
+    {
+     "team": "SAGA久光スプリングス",
+     "set": 1,
+     "starters": [
+      {
+       "position": 1,
+       "number": 11,
+       "name": "栄 絵里香"
+      },
+      {
+       "position": 2,
+       "number": 5,
+       "name": "中島 咲愛"
+      },
+      {
+       "position": 3,
+       "number": 2,
+       "name": "荒木 彩花"
+      },
+      {
+       "position": 4,
+       "number": 4,
+       "name": "マルタ・ラヴィンスカ"
+      },
+      {
+       "position": 5,
+       "number": 18,
+       "name": "アナスタシア・スタルナヤ"
+      },
+      {
+       "position": 6,
+       "number": 21,
+       "name": "山下 遥華"
+      }
+     ],
+     "grid": {
+      "top_row_numbers": [
+       4,
+       2,
+       5
+      ],
+      "bottom_row_numbers": [
+       18,
+       21,
+       11
+      ]
+     },
+     "liberos": [
+      {
+       "number": 7,
+       "name": "西村 弥菜美",
+       "flag": "▲"
+      },
+      {
+       "number": 15,
+       "name": "仙波 こころ",
+       "flag": "▲"
+      }
+     ],
+     "note": ""
+    },
+    {
+     "team": "SAGA久光スプリングス",
+     "set": 2,
+     "starters": [
+      {
+       "position": 1,
+       "number": 11,
+       "name": "栄 絵里香"
+      },
+      {
+       "position": 2,
+       "number": 5,
+       "name": "中島 咲愛"
+      },
+      {
+       "position": 3,
+       "number": 2,
+       "name": "荒木 彩花"
+      },
+      {
+       "position": 4,
+       "number": 4,
+       "name": "マルタ・ラヴィンスカ"
+      },
+      {
+       "position": 5,
+       "number": 18,
+       "name": "アナスタシア・スタルナヤ"
+      },
+      {
+       "position": 6,
+       "number": 21,
+       "name": "山下 遥華"
+      }
+     ],
+     "grid": {
+      "top_row_numbers": [
+       4,
+       2,
+       5
+      ],
+      "bottom_row_numbers": [
+       18,
+       21,
+       11
+      ]
+     },
+     "liberos": [
+      {
+       "number": 7,
+       "name": "西村 弥菜美",
+       "flag": "▲"
+      },
+      {
+       "number": 15,
+       "name": "仙波 こころ",
+       "flag": "▲"
+      }
+     ],
+     "note": ""
+    },
+    {
+     "team": "SAGA久光スプリングス",
+     "set": 3,
+     "starters": [
+      {
+       "position": 1,
+       "number": 11,
+       "name": "栄 絵里香"
+      },
+      {
+       "position": 2,
+       "number": 3,
+       "name": "北窓 絢音"
+      },
+      {
+       "position": 3,
+       "number": 2,
+       "name": "荒木 彩花"
+      },
+      {
+       "position": 4,
+       "number": 4,
+       "name": "マルタ・ラヴィンスカ"
+      },
+      {
+       "position": 5,
+       "number": 18,
+       "name": "アナスタシア・スタルナヤ"
+      },
+      {
+       "position": 6,
+       "number": 21,
+       "name": "山下 遥華"
+      }
+     ],
+     "grid": {
+      "top_row_numbers": [
+       4,
+       2,
+       3
+      ],
+      "bottom_row_numbers": [
+       18,
+       21,
+       11
+      ]
+     },
+     "liberos": [
+      {
+       "number": 7,
+       "name": "西村 弥菜美",
+       "flag": "▲"
+      },
+      {
+       "number": 15,
+       "name": "仙波 こころ",
+       "flag": "▲"
+      }
+     ],
+     "note": ""
+    },
+    {
+     "team": "アランマーレ秋田庄内",
+     "set": 1,
+     "starters": [
+      {
+       "position": 1,
+       "number": 25,
+       "name": "閑田 千尋"
+      },
+      {
+       "position": 2,
+       "number": 9,
+       "name": "徳永 優奈"
+      },
+      {
+       "position": 3,
+       "number": 1,
+       "name": "大元 朱菜"
+      },
+      {
+       "position": 4,
+       "number": 2,
+       "name": "杜 秋爽"
+      },
+      {
+       "position": 5,
+       "number": 27,
+       "name": "有村 涼美"
+      },
+      {
+       "position": 6,
+       "number": 29,
+       "name": "ウィモンラット・タナパン"
+      }
+     ],
+     "grid": {
+      "top_row_numbers": [
+       2,
+       1,
+       9
+      ],
+      "bottom_row_numbers": [
+       27,
+       29,
+       25
+      ]
+     },
+     "liberos": [
+      {
+       "number": 8,
+       "name": "森田 茉莉",
+       "flag": "▲"
+      }
+     ],
+     "note": ""
+    },
+    {
+     "team": "アランマーレ秋田庄内",
+     "set": 2,
+     "starters": [
+      {
+       "position": 1,
+       "number": 27,
+       "name": "有村 涼美"
+      },
+      {
+       "position": 2,
+       "number": 29,
+       "name": "ウィモンラット・タナパン"
+      },
+      {
+       "position": 3,
+       "number": 25,
+       "name": "閑田 千尋"
+      },
+      {
+       "position": 4,
+       "number": 9,
+       "name": "徳永 優奈"
+      },
+      {
+       "position": 5,
+       "number": 1,
+       "name": "大元 朱菜"
+      },
+      {
+       "position": 6,
+       "number": 2,
+       "name": "杜 秋爽"
+      }
+     ],
+     "grid": {
+      "top_row_numbers": [
+       9,
+       25,
+       29
+      ],
+      "bottom_row_numbers": [
+       1,
+       2,
+       27
+      ]
+     },
+     "liberos": [
+      {
+       "number": 8,
+       "name": "森田 茉莉",
+       "flag": "▲"
+      }
+     ],
+     "note": ""
+    },
+    {
+     "team": "アランマーレ秋田庄内",
+     "set": 3,
+     "starters": [
+      {
+       "position": 1,
+       "number": 27,
+       "name": "有村 涼美"
+      },
+      {
+       "position": 2,
+       "number": 29,
+       "name": "ウィモンラット・タナパン"
+      },
+      {
+       "position": 3,
+       "number": 25,
+       "name": "閑田 千尋"
+      },
+      {
+       "position": 4,
+       "number": 9,
+       "name": "徳永 優奈"
+      },
+      {
+       "position": 5,
+       "number": 1,
+       "name": "大元 朱菜"
+      },
+      {
+       "position": 6,
+       "number": 2,
+       "name": "杜 秋爽"
+      }
+     ],
+     "grid": {
+      "top_row_numbers": [
+       9,
+       25,
+       29
+      ],
+      "bottom_row_numbers": [
+       1,
+       2,
+       27
+      ]
+     },
+     "liberos": [
+      {
+       "number": 8,
+       "name": "森田 茉莉",
+       "flag": "▲"
+      }
+     ],
+     "note": ""
+    }
+   ]
+  },
+  {
+   "id": 37499,
+   "round": 6,
+   "game": 2,
+   "date": "2026-11-22",
+   "weekday": "日",
+   "home": "デンソーエアリービーズ",
+   "away": "NECレッドロケッツ川崎",
+   "venue": "ダイセンアリーナ西尾",
+   "venue_note": "",
+   "status": "played",
+   "home_sets": 2,
+   "away_sets": 3,
+   "set_scores": [
+    "23-25",
+    "20-25",
+    "25-20",
+    "25-13",
+    "12-15"
+   ],
+   "note": "",
+   "detail_url": "https://www.svleague.jp/match/detail/37499/",
+   "form_b_url": "https://www.svleague.jp/match/form/?id=37499&sheet=b",
+   "lineups": [
+    {
+     "team": "デンソーエアリービーズ",
+     "set": 1,
+     "starters": [
+      {
+       "position": 1,
+       "number": 12,
+       "name": "ロベルタ・シルバ・ハッツケ"
+      },
+      {
+       "position": 2,
+       "number": 1,
+       "name": "山下 晴奈"
+      },
+      {
+       "position": 3,
+       "number": 15,
+       "name": "柳 千嘉"
+      },
+      {
+       "position": 4,
+       "number": 7,
+       "name": "ロザマリア・モンチベレル"
+      },
+      {
+       "position": 5,
+       "number": 11,
+       "name": "アマンダ・ダニエラ・コネオ・カルドナ"
+      },
+      {
+       "position": 6,
+       "number": 22,
+       "name": "大﨑 琴未"
+      }
+     ],
+     "grid": {
+      "top_row_numbers": [
+       7,
+       15,
+       1
+      ],
+      "bottom_row_numbers": [
+       11,
+       22,
+       12
+      ]
+     },
+     "liberos": [
+      {
+       "number": 4,
+       "name": "川畑 遥奈",
+       "flag": "▲"
+      }
+     ],
+     "note": ""
+    },
+    {
+     "team": "デンソーエアリービーズ",
+     "set": 2,
+     "starters": [
+      {
+       "position": 1,
+       "number": 12,
+       "name": "ロベルタ・シルバ・ハッツケ"
+      },
+      {
+       "position": 2,
+       "number": 1,
+       "name": "山下 晴奈"
+      },
+      {
+       "position": 3,
+       "number": 15,
+       "name": "柳 千嘉"
+      },
+      {
+       "position": 4,
+       "number": 7,
+       "name": "ロザマリア・モンチベレル"
+      },
+      {
+       "position": 5,
+       "number": 11,
+       "name": "アマンダ・ダニエラ・コネオ・カルドナ"
+      },
+      {
+       "position": 6,
+       "number": 22,
+       "name": "大﨑 琴未"
+      }
+     ],
+     "grid": {
+      "top_row_numbers": [
+       7,
+       15,
+       1
+      ],
+      "bottom_row_numbers": [
+       11,
+       22,
+       12
+      ]
+     },
+     "liberos": [
+      {
+       "number": 4,
+       "name": "川畑 遥奈",
+       "flag": "▲"
+      }
+     ],
+     "note": ""
+    },
+    {
+     "team": "デンソーエアリービーズ",
+     "set": 3,
+     "starters": [
+      {
+       "position": 1,
+       "number": 1,
+       "name": "山下 晴奈"
+      },
+      {
+       "position": 2,
+       "number": 15,
+       "name": "柳 千嘉"
+      },
+      {
+       "position": 3,
+       "number": 7,
+       "name": "ロザマリア・モンチベレル"
+      },
+      {
+       "position": 4,
+       "number": 17,
+       "name": "イェーモンミャ"
+      },
+      {
+       "position": 5,
+       "number": 22,
+       "name": "大﨑 琴未"
+      },
+      {
+       "position": 6,
+       "number": 12,
+       "name": "ロベルタ・シルバ・ハッツケ"
+      }
+     ],
+     "grid": {
+      "top_row_numbers": [
+       17,
+       7,
+       15
+      ],
+      "bottom_row_numbers": [
+       22,
+       12,
+       1
+      ]
+     },
+     "liberos": [
+      {
+       "number": 4,
+       "name": "川畑 遥奈",
+       "flag": "▲"
+      }
+     ],
+     "note": ""
+    },
+    {
+     "team": "デンソーエアリービーズ",
+     "set": 4,
+     "starters": [
+      {
+       "position": 1,
+       "number": 1,
+       "name": "山下 晴奈"
+      },
+      {
+       "position": 2,
+       "number": 15,
+       "name": "柳 千嘉"
+      },
+      {
+       "position": 3,
+       "number": 7,
+       "name": "ロザマリア・モンチベレル"
+      },
+      {
+       "position": 4,
+       "number": 17,
+       "name": "イェーモンミャ"
+      },
+      {
+       "position": 5,
+       "number": 22,
+       "name": "大﨑 琴未"
+      },
+      {
+       "position": 6,
+       "number": 12,
+       "name": "ロベルタ・シルバ・ハッツケ"
+      }
+     ],
+     "grid": {
+      "top_row_numbers": [
+       17,
+       7,
+       15
+      ],
+      "bottom_row_numbers": [
+       22,
+       12,
+       1
+      ]
+     },
+     "liberos": [
+      {
+       "number": 4,
+       "name": "川畑 遥奈",
+       "flag": "▲"
+      }
+     ],
+     "note": ""
+    },
+    {
+     "team": "デンソーエアリービーズ",
+     "set": 5,
+     "starters": [
+      {
+       "position": 1,
+       "number": 1,
+       "name": "山下 晴奈"
+      },
+      {
+       "position": 2,
+       "number": 15,
+       "name": "柳 千嘉"
+      },
+      {
+       "position": 3,
+       "number": 7,
+       "name": "ロザマリア・モンチベレル"
+      },
+      {
+       "position": 4,
+       "number": 17,
+       "name": "イェーモンミャ"
+      },
+      {
+       "position": 5,
+       "number": 22,
+       "name": "大﨑 琴未"
+      },
+      {
+       "position": 6,
+       "number": 12,
+       "name": "ロベルタ・シルバ・ハッツケ"
+      }
+     ],
+     "grid": {
+      "top_row_numbers": [
+       17,
+       7,
+       15
+      ],
+      "bottom_row_numbers": [
+       22,
+       12,
+       1
+      ]
+     },
+     "liberos": [
+      {
+       "number": 4,
+       "name": "川畑 遥奈",
+       "flag": "▲"
+      }
+     ],
+     "note": ""
+    },
+    {
+     "team": "NECレッドロケッツ川崎",
+     "set": 1,
+     "starters": [
+      {
+       "position": 1,
+       "number": 4,
+       "name": "廣田 あい"
+      },
+      {
+       "position": 2,
+       "number": 7,
+       "name": "甲 萌香"
+      },
+      {
+       "position": 3,
+       "number": 15,
+       "name": "シルビア・チネロ・ヌワカロール"
+      },
+      {
+       "position": 4,
+       "number": 18,
+       "name": "シアラ・モーガン・ディーベル"
+      },
+      {
+       "position": 5,
+       "number": 1,
+       "name": "山田 二千華"
+      },
+      {
+       "position": 6,
+       "number": 10,
+       "name": "中川 つかさ"
+      }
+     ],
+     "grid": {
+      "top_row_numbers": [
+       18,
+       15,
+       7
+      ],
+      "bottom_row_numbers": [
+       1,
+       10,
+       4
+      ]
+     },
+     "liberos": [
+      {
+       "number": 3,
+       "name": "大工園 彩夏",
+       "flag": "▲"
+      }
+     ],
+     "note": ""
+    },
+    {
+     "team": "NECレッドロケッツ川崎",
+     "set": 2,
+     "starters": [
+      {
+       "position": 1,
+       "number": 10,
+       "name": "中川 つかさ"
+      },
+      {
+       "position": 2,
+       "number": 4,
+       "name": "廣田 あい"
+      },
+      {
+       "position": 3,
+       "number": 7,
+       "name": "甲 萌香"
+      },
+      {
+       "position": 4,
+       "number": 15,
+       "name": "シルビア・チネロ・ヌワカロール"
+      },
+      {
+       "position": 5,
+       "number": 18,
+       "name": "シアラ・モーガン・ディーベル"
+      },
+      {
+       "position": 6,
+       "number": 1,
+       "name": "山田 二千華"
+      }
+     ],
+     "grid": {
+      "top_row_numbers": [
+       15,
+       7,
+       4
+      ],
+      "bottom_row_numbers": [
+       18,
+       1,
+       10
+      ]
+     },
+     "liberos": [
+      {
+       "number": 3,
+       "name": "大工園 彩夏",
+       "flag": "▲"
+      }
+     ],
+     "note": ""
+    },
+    {
+     "team": "NECレッドロケッツ川崎",
+     "set": 3,
+     "starters": [
+      {
+       "position": 1,
+       "number": 10,
+       "name": "中川 つかさ"
+      },
+      {
+       "position": 2,
+       "number": 4,
+       "name": "廣田 あい"
+      },
+      {
+       "position": 3,
+       "number": 7,
+       "name": "甲 萌香"
+      },
+      {
+       "position": 4,
+       "number": 15,
+       "name": "シルビア・チネロ・ヌワカロール"
+      },
+      {
+       "position": 5,
+       "number": 18,
+       "name": "シアラ・モーガン・ディーベル"
+      },
+      {
+       "position": 6,
+       "number": 1,
+       "name": "山田 二千華"
+      }
+     ],
+     "grid": {
+      "top_row_numbers": [
+       15,
+       7,
+       4
+      ],
+      "bottom_row_numbers": [
+       18,
+       1,
+       10
+      ]
+     },
+     "liberos": [
+      {
+       "number": 3,
+       "name": "大工園 彩夏",
+       "flag": "▲"
+      }
+     ],
+     "note": ""
+    },
+    {
+     "team": "NECレッドロケッツ川崎",
+     "set": 4,
+     "starters": [
+      {
+       "position": 1,
+       "number": 10,
+       "name": "中川 つかさ"
+      },
+      {
+       "position": 2,
+       "number": 4,
+       "name": "廣田 あい"
+      },
+      {
+       "position": 3,
+       "number": 7,
+       "name": "甲 萌香"
+      },
+      {
+       "position": 4,
+       "number": 15,
+       "name": "シルビア・チネロ・ヌワカロール"
+      },
+      {
+       "position": 5,
+       "number": 18,
+       "name": "シアラ・モーガン・ディーベル"
+      },
+      {
+       "position": 6,
+       "number": 1,
+       "name": "山田 二千華"
+      }
+     ],
+     "grid": {
+      "top_row_numbers": [
+       15,
+       7,
+       4
+      ],
+      "bottom_row_numbers": [
+       18,
+       1,
+       10
+      ]
+     },
+     "liberos": [
+      {
+       "number": 3,
+       "name": "大工園 彩夏",
+       "flag": "▲"
+      }
+     ],
+     "note": ""
+    },
+    {
+     "team": "NECレッドロケッツ川崎",
+     "set": 5,
+     "starters": [
+      {
+       "position": 1,
+       "number": 10,
+       "name": "中川 つかさ"
+      },
+      {
+       "position": 2,
+       "number": 12,
+       "name": "佐々木 遥子"
+      },
+      {
+       "position": 3,
+       "number": 7,
+       "name": "甲 萌香"
+      },
+      {
+       "position": 4,
+       "number": 15,
+       "name": "シルビア・チネロ・ヌワカロール"
+      },
+      {
+       "position": 5,
+       "number": 4,
+       "name": "廣田 あい"
+      },
+      {
+       "position": 6,
+       "number": 1,
+       "name": "山田 二千華"
+      }
+     ],
+     "grid": {
+      "top_row_numbers": [
+       15,
+       7,
+       12
+      ],
+      "bottom_row_numbers": [
+       4,
+       1,
+       10
+      ]
+     },
+     "liberos": [
+      {
+       "number": 3,
+       "name": "大工園 彩夏",
+       "flag": "▲"
+      }
+     ],
+     "note": ""
+    }
+   ]
+  },
+  {
+   "id": 37501,
+   "round": 6,
+   "game": 2,
+   "date": "2026-11-22",
+   "weekday": "日",
+   "home": "Astemoリヴァーレ茨城",
+   "away": "ヴィクトリーナ姫路",
+   "venue": "ひたちなか市総合運動公園総合体育館",
+   "venue_note": "",
+   "status": "played",
+   "home_sets": 2,
+   "away_sets": 3,
+   "set_scores": [
+    "25-22",
+    "20-25",
+    "23-25",
+    "25-23",
+    "13-15"
+   ],
+   "note": "",
+   "detail_url": "https://www.svleague.jp/match/detail/37501/",
+   "form_b_url": "https://www.svleague.jp/match/form/?id=37501&sheet=b",
+   "lineups": [
+    {
+     "team": "Astemoリヴァーレ茨城",
+     "set": 1,
+     "starters": [
+      {
+       "position": 1,
+       "number": 2,
+       "name": "藤倉 由貴"
+      },
+      {
+       "position": 2,
+       "number": 31,
+       "name": "エリア・ルビン"
+      },
+      {
+       "position": 3,
+       "number": 17,
+       "name": "渡邊 彩"
+      },
+      {
+       "position": 4,
+       "number": 6,
+       "name": "ダニエル・カッティーノ"
+      },
+      {
+       "position": 5,
+       "number": 9,
+       "name": "生井澤 美海華"
+      },
+      {
+       "position": 6,
+       "number": 19,
+       "name": "ボジャナ・ブティガン"
+      }
+     ],
+     "grid": {
+      "top_row_numbers": [
+       6,
+       17,
+       31
+      ],
+      "bottom_row_numbers": [
+       9,
+       19,
+       2
+      ]
+     },
+     "liberos": [
+      {
+       "number": 7,
+       "name": "德本 歩未香",
+       "flag": "▲"
+      }
+     ],
+     "note": ""
+    },
+    {
+     "team": "Astemoリヴァーレ茨城",
+     "set": 2,
+     "starters": [
+      {
+       "position": 1,
+       "number": 2,
+       "name": "藤倉 由貴"
+      },
+      {
+       "position": 2,
+       "number": 31,
+       "name": "エリア・ルビン"
+      },
+      {
+       "position": 3,
+       "number": 17,
+       "name": "渡邊 彩"
+      },
+      {
+       "position": 4,
+       "number": 6,
+       "name": "ダニエル・カッティーノ"
+      },
+      {
+       "position": 5,
+       "number": 9,
+       "name": "生井澤 美海華"
+      },
+      {
+       "position": 6,
+       "number": 19,
+       "name": "ボジャナ・ブティガン"
+      }
+     ],
+     "grid": {
+      "top_row_numbers": [
+       6,
+       17,
+       31
+      ],
+      "bottom_row_numbers": [
+       9,
+       19,
+       2
+      ]
+     },
+     "liberos": [
+      {
+       "number": 7,
+       "name": "德本 歩未香",
+       "flag": "▲"
+      }
+     ],
+     "note": ""
+    },
+    {
+     "team": "Astemoリヴァーレ茨城",
+     "set": 3,
+     "starters": [
+      {
+       "position": 1,
+       "number": 2,
+       "name": "藤倉 由貴"
+      },
+      {
+       "position": 2,
+       "number": 31,
+       "name": "エリア・ルビン"
+      },
+      {
+       "position": 3,
+       "number": 17,
+       "name": "渡邊 彩"
+      },
+      {
+       "position": 4,
+       "number": 6,
+       "name": "ダニエル・カッティーノ"
+      },
+      {
+       "position": 5,
+       "number": 9,
+       "name": "生井澤 美海華"
+      },
+      {
+       "position": 6,
+       "number": 19,
+       "name": "ボジャナ・ブティガン"
+      }
+     ],
+     "grid": {
+      "top_row_numbers": [
+       6,
+       17,
+       31
+      ],
+      "bottom_row_numbers": [
+       9,
+       19,
+       2
+      ]
+     },
+     "liberos": [
+      {
+       "number": 7,
+       "name": "德本 歩未香",
+       "flag": "▲"
+      }
+     ],
+     "note": ""
+    },
+    {
+     "team": "Astemoリヴァーレ茨城",
+     "set": 4,
+     "starters": [
+      {
+       "position": 1,
+       "number": 2,
+       "name": "藤倉 由貴"
+      },
+      {
+       "position": 2,
+       "number": 31,
+       "name": "エリア・ルビン"
+      },
+      {
+       "position": 3,
+       "number": 17,
+       "name": "渡邊 彩"
+      },
+      {
+       "position": 4,
+       "number": 6,
+       "name": "ダニエル・カッティーノ"
+      },
+      {
+       "position": 5,
+       "number": 9,
+       "name": "生井澤 美海華"
+      },
+      {
+       "position": 6,
+       "number": 19,
+       "name": "ボジャナ・ブティガン"
+      }
+     ],
+     "grid": {
+      "top_row_numbers": [
+       6,
+       17,
+       31
+      ],
+      "bottom_row_numbers": [
+       9,
+       19,
+       2
+      ]
+     },
+     "liberos": [
+      {
+       "number": 7,
+       "name": "德本 歩未香",
+       "flag": "▲"
+      }
+     ],
+     "note": ""
+    },
+    {
+     "team": "Astemoリヴァーレ茨城",
+     "set": 5,
+     "starters": [
+      {
+       "position": 1,
+       "number": 2,
+       "name": "藤倉 由貴"
+      },
+      {
+       "position": 2,
+       "number": 31,
+       "name": "エリア・ルビン"
+      },
+      {
+       "position": 3,
+       "number": 17,
+       "name": "渡邊 彩"
+      },
+      {
+       "position": 4,
+       "number": 11,
+       "name": "岡部 詩音"
+      },
+      {
+       "position": 5,
+       "number": 9,
+       "name": "生井澤 美海華"
+      },
+      {
+       "position": 6,
+       "number": 19,
+       "name": "ボジャナ・ブティガン"
+      }
+     ],
+     "grid": {
+      "top_row_numbers": [
+       11,
+       17,
+       31
+      ],
+      "bottom_row_numbers": [
+       9,
+       19,
+       2
+      ]
+     },
+     "liberos": [
+      {
+       "number": 7,
+       "name": "德本 歩未香",
+       "flag": "▲"
+      }
+     ],
+     "note": ""
+    },
+    {
+     "team": "ヴィクトリーナ姫路",
+     "set": 1,
+     "starters": [
+      {
+       "position": 1,
+       "number": 8,
+       "name": "大島 杏花"
+      },
+      {
+       "position": 2,
+       "number": 12,
+       "name": "野中 瑠衣"
+      },
+      {
+       "position": 3,
+       "number": 11,
+       "name": "麻野 七奈未"
+      },
+      {
+       "position": 4,
+       "number": 3,
+       "name": "田中 咲希"
+      },
+      {
+       "position": 5,
+       "number": 18,
+       "name": "カミーラ・ミンガルディ"
+      },
+      {
+       "position": 6,
+       "number": 7,
+       "name": "ミラ・ケアシミロヴァ・トドロヴァ"
+      }
+     ],
+     "grid": {
+      "top_row_numbers": [
+       3,
+       11,
+       12
+      ],
+      "bottom_row_numbers": [
+       18,
+       7,
+       8
+      ]
+     },
+     "liberos": [
+      {
+       "number": 13,
+       "name": "福留 慧美",
+       "flag": "▲"
+      }
+     ],
+     "note": ""
+    },
+    {
+     "team": "ヴィクトリーナ姫路",
+     "set": 2,
+     "starters": [
+      {
+       "position": 1,
+       "number": 12,
+       "name": "野中 瑠衣"
+      },
+      {
+       "position": 2,
+       "number": 11,
+       "name": "麻野 七奈未"
+      },
+      {
+       "position": 3,
+       "number": 3,
+       "name": "田中 咲希"
+      },
+      {
+       "position": 4,
+       "number": 18,
+       "name": "カミーラ・ミンガルディ"
+      },
+      {
+       "position": 5,
+       "number": 7,
+       "name": "ミラ・ケアシミロヴァ・トドロヴァ"
+      },
+      {
+       "position": 6,
+       "number": 8,
+       "name": "大島 杏花"
+      }
+     ],
+     "grid": {
+      "top_row_numbers": [
+       18,
+       3,
+       11
+      ],
+      "bottom_row_numbers": [
+       7,
+       8,
+       12
+      ]
+     },
+     "liberos": [
+      {
+       "number": 13,
+       "name": "福留 慧美",
+       "flag": "▲"
+      }
+     ],
+     "note": ""
+    },
+    {
+     "team": "ヴィクトリーナ姫路",
+     "set": 3,
+     "starters": [
+      {
+       "position": 1,
+       "number": 2,
+       "name": "櫻井 美樹"
+      },
+      {
+       "position": 2,
+       "number": 12,
+       "name": "野中 瑠衣"
+      },
+      {
+       "position": 3,
+       "number": 11,
+       "name": "麻野 七奈未"
+      },
+      {
+       "position": 4,
+       "number": 3,
+       "name": "田中 咲希"
+      },
+      {
+       "position": 5,
+       "number": 18,
+       "name": "カミーラ・ミンガルディ"
+      },
+      {
+       "position": 6,
+       "number": 7,
+       "name": "ミラ・ケアシミロヴァ・トドロヴァ"
+      }
+     ],
+     "grid": {
+      "top_row_numbers": [
+       3,
+       11,
+       12
+      ],
+      "bottom_row_numbers": [
+       18,
+       7,
+       2
+      ]
+     },
+     "liberos": [
+      {
+       "number": 13,
+       "name": "福留 慧美",
+       "flag": "▲"
+      }
+     ],
+     "note": ""
+    },
+    {
+     "team": "ヴィクトリーナ姫路",
+     "set": 4,
+     "starters": [
+      {
+       "position": 1,
+       "number": 12,
+       "name": "野中 瑠衣"
+      },
+      {
+       "position": 2,
+       "number": 11,
+       "name": "麻野 七奈未"
+      },
+      {
+       "position": 3,
+       "number": 3,
+       "name": "田中 咲希"
+      },
+      {
+       "position": 4,
+       "number": 18,
+       "name": "カミーラ・ミンガルディ"
+      },
+      {
+       "position": 5,
+       "number": 7,
+       "name": "ミラ・ケアシミロヴァ・トドロヴァ"
+      },
+      {
+       "position": 6,
+       "number": 2,
+       "name": "櫻井 美樹"
+      }
+     ],
+     "grid": {
+      "top_row_numbers": [
+       18,
+       3,
+       11
+      ],
+      "bottom_row_numbers": [
+       7,
+       2,
+       12
+      ]
+     },
+     "liberos": [
+      {
+       "number": 13,
+       "name": "福留 慧美",
+       "flag": "▲"
+      }
+     ],
+     "note": ""
+    },
+    {
+     "team": "ヴィクトリーナ姫路",
+     "set": 5,
+     "starters": [
+      {
+       "position": 1,
+       "number": 2,
+       "name": "櫻井 美樹"
+      },
+      {
+       "position": 2,
+       "number": 12,
+       "name": "野中 瑠衣"
+      },
+      {
+       "position": 3,
+       "number": 11,
+       "name": "麻野 七奈未"
+      },
+      {
+       "position": 4,
+       "number": 3,
+       "name": "田中 咲希"
+      },
+      {
+       "position": 5,
+       "number": 18,
+       "name": "カミーラ・ミンガルディ"
+      },
+      {
+       "position": 6,
+       "number": 7,
+       "name": "ミラ・ケアシミロヴァ・トドロヴァ"
+      }
+     ],
+     "grid": {
+      "top_row_numbers": [
+       3,
+       11,
+       12
+      ],
+      "bottom_row_numbers": [
+       18,
+       7,
+       2
+      ]
+     },
+     "liberos": [
+      {
+       "number": 13,
+       "name": "福留 慧美",
+       "flag": "▲"
+      }
+     ],
+     "note": ""
+    }
+   ]
+  },
+  {
+   "id": 37503,
+   "round": 6,
+   "game": 2,
+   "date": "2026-11-22",
+   "weekday": "日",
+   "home": "群馬グリーンウイングス",
+   "away": "アリーザ愛知",
+   "venue": "ヤマト市民体育館前橋",
+   "venue_note": "",
+   "status": "played",
+   "home_sets": 3,
+   "away_sets": 2,
+   "set_scores": [
+    "25-17",
+    "25-27",
+    "18-25",
+    "25-20",
+    "15-13"
+   ],
+   "note": "",
+   "detail_url": "https://www.svleague.jp/match/detail/37503/",
+   "form_b_url": "https://www.svleague.jp/match/form/?id=37503&sheet=b",
+   "lineups": [
+    {
+     "team": "群馬グリーンウイングス",
+     "set": 1,
+     "starters": [
+      {
+       "position": 1,
+       "number": 3,
+       "name": "志摩 美古都"
+      },
+      {
+       "position": 2,
+       "number": 11,
+       "name": "島村 春世"
+      },
+      {
+       "position": 3,
+       "number": 16,
+       "name": "ジャン・ティ・タン・トゥイー"
+      },
+      {
+       "position": 4,
+       "number": 10,
+       "name": "オリビア・ロジャンスキ"
+      },
+      {
+       "position": 5,
+       "number": 15,
+       "name": "ヨバナ・ステバノビッチ"
+      },
+      {
+       "position": 6,
+       "number": 9,
+       "name": "山下 遥香"
+      }
+     ],
+     "grid": {
+      "top_row_numbers": [
+       10,
+       16,
+       11
+      ],
+      "bottom_row_numbers": [
+       15,
+       9,
+       3
+      ]
+     },
+     "liberos": [
+      {
+       "number": 4,
+       "name": "工藤 真帆",
+       "flag": "▲"
+      },
+      {
+       "number": 22,
+       "name": "西川 さくら",
+       "flag": "▲"
+      }
+     ],
+     "note": ""
+    },
+    {
+     "team": "群馬グリーンウイングス",
+     "set": 2,
+     "starters": [
+      {
+       "position": 1,
+       "number": 3,
+       "name": "志摩 美古都"
+      },
+      {
+       "position": 2,
+       "number": 11,
+       "name": "島村 春世"
+      },
+      {
+       "position": 3,
+       "number": 16,
+       "name": "ジャン・ティ・タン・トゥイー"
+      },
+      {
+       "position": 4,
+       "number": 10,
+       "name": "オリビア・ロジャンスキ"
+      },
+      {
+       "position": 5,
+       "number": 15,
+       "name": "ヨバナ・ステバノビッチ"
+      },
+      {
+       "position": 6,
+       "number": 9,
+       "name": "山下 遥香"
+      }
+     ],
+     "grid": {
+      "top_row_numbers": [
+       10,
+       16,
+       11
+      ],
+      "bottom_row_numbers": [
+       15,
+       9,
+       3
+      ]
+     },
+     "liberos": [
+      {
+       "number": 4,
+       "name": "工藤 真帆",
+       "flag": "▲"
+      },
+      {
+       "number": 22,
+       "name": "西川 さくら",
+       "flag": "▲"
+      }
+     ],
+     "note": ""
+    },
+    {
+     "team": "群馬グリーンウイングス",
+     "set": 3,
+     "starters": [
+      {
+       "position": 1,
+       "number": 3,
+       "name": "志摩 美古都"
+      },
+      {
+       "position": 2,
+       "number": 11,
+       "name": "島村 春世"
+      },
+      {
+       "position": 3,
+       "number": 16,
+       "name": "ジャン・ティ・タン・トゥイー"
+      },
+      {
+       "position": 4,
+       "number": 10,
+       "name": "オリビア・ロジャンスキ"
+      },
+      {
+       "position": 5,
+       "number": 15,
+       "name": "ヨバナ・ステバノビッチ"
+      },
+      {
+       "position": 6,
+       "number": 9,
+       "name": "山下 遥香"
+      }
+     ],
+     "grid": {
+      "top_row_numbers": [
+       10,
+       16,
+       11
+      ],
+      "bottom_row_numbers": [
+       15,
+       9,
+       3
+      ]
+     },
+     "liberos": [
+      {
+       "number": 4,
+       "name": "工藤 真帆",
+       "flag": "▲"
+      },
+      {
+       "number": 22,
+       "name": "西川 さくら",
+       "flag": "▲"
+      }
+     ],
+     "note": ""
+    },
+    {
+     "team": "群馬グリーンウイングス",
+     "set": 4,
+     "starters": [
+      {
+       "position": 1,
+       "number": 9,
+       "name": "山下 遥香"
+      },
+      {
+       "position": 2,
+       "number": 10,
+       "name": "オリビア・ロジャンスキ"
+      },
+      {
+       "position": 3,
+       "number": 15,
+       "name": "ヨバナ・ステバノビッチ"
+      },
+      {
+       "position": 4,
+       "number": 16,
+       "name": "ジャン・ティ・タン・トゥイー"
+      },
+      {
+       "position": 5,
+       "number": 3,
+       "name": "志摩 美古都"
+      },
+      {
+       "position": 6,
+       "number": 11,
+       "name": "島村 春世"
+      }
+     ],
+     "grid": {
+      "top_row_numbers": [
+       16,
+       15,
+       10
+      ],
+      "bottom_row_numbers": [
+       3,
+       11,
+       9
+      ]
+     },
+     "liberos": [
+      {
+       "number": 4,
+       "name": "工藤 真帆",
+       "flag": "▲"
+      },
+      {
+       "number": 22,
+       "name": "西川 さくら",
+       "flag": "▲"
+      }
+     ],
+     "note": ""
+    },
+    {
+     "team": "群馬グリーンウイングス",
+     "set": 5,
+     "starters": [
+      {
+       "position": 1,
+       "number": 3,
+       "name": "志摩 美古都"
+      },
+      {
+       "position": 2,
+       "number": 11,
+       "name": "島村 春世"
+      },
+      {
+       "position": 3,
+       "number": 16,
+       "name": "ジャン・ティ・タン・トゥイー"
+      },
+      {
+       "position": 4,
+       "number": 10,
+       "name": "オリビア・ロジャンスキ"
+      },
+      {
+       "position": 5,
+       "number": 15,
+       "name": "ヨバナ・ステバノビッチ"
+      },
+      {
+       "position": 6,
+       "number": 9,
+       "name": "山下 遥香"
+      }
+     ],
+     "grid": {
+      "top_row_numbers": [
+       10,
+       16,
+       11
+      ],
+      "bottom_row_numbers": [
+       15,
+       9,
+       3
+      ]
+     },
+     "liberos": [
+      {
+       "number": 4,
+       "name": "工藤 真帆",
+       "flag": "▲"
+      },
+      {
+       "number": 22,
+       "name": "西川 さくら",
+       "flag": "▲"
+      }
+     ],
+     "note": ""
+    },
+    {
+     "team": "アリーザ愛知",
+     "set": 1,
+     "starters": [
+      {
+       "position": 1,
+       "number": 8,
+       "name": "佐藤 彩乃"
+      },
+      {
+       "position": 2,
+       "number": 14,
+       "name": "ラウラ・クンズラー"
+      },
+      {
+       "position": 3,
+       "number": 5,
+       "name": "横田 紗椰香"
+      },
+      {
+       "position": 4,
+       "number": 6,
+       "name": "リンジー・ラディンズ"
+      },
+      {
+       "position": 5,
+       "number": 1,
+       "name": "鴫原 ひなた"
+      },
+      {
+       "position": 6,
+       "number": 21,
+       "name": "ヒネイリー・マルティネス"
+      }
+     ],
+     "grid": {
+      "top_row_numbers": [
+       6,
+       5,
+       14
+      ],
+      "bottom_row_numbers": [
+       1,
+       21,
+       8
+      ]
+     },
+     "liberos": [
+      {
+       "number": 12,
+       "name": "中村 悠",
+       "flag": "▲"
+      }
+     ],
+     "note": ""
+    },
+    {
+     "team": "アリーザ愛知",
+     "set": 2,
+     "starters": [
+      {
+       "position": 1,
+       "number": 1,
+       "name": "鴫原 ひなた"
+      },
+      {
+       "position": 2,
+       "number": 21,
+       "name": "ヒネイリー・マルティネス"
+      },
+      {
+       "position": 3,
+       "number": 8,
+       "name": "佐藤 彩乃"
+      },
+      {
+       "position": 4,
+       "number": 14,
+       "name": "ラウラ・クンズラー"
+      },
+      {
+       "position": 5,
+       "number": 17,
+       "name": "中田 藍美"
+      },
+      {
+       "position": 6,
+       "number": 6,
+       "name": "リンジー・ラディンズ"
+      }
+     ],
+     "grid": {
+      "top_row_numbers": [
+       14,
+       8,
+       21
+      ],
+      "bottom_row_numbers": [
+       17,
+       6,
+       1
+      ]
+     },
+     "liberos": [
+      {
+       "number": 12,
+       "name": "中村 悠",
+       "flag": "▲"
+      }
+     ],
+     "note": ""
+    },
+    {
+     "team": "アリーザ愛知",
+     "set": 3,
+     "starters": [
+      {
+       "position": 1,
+       "number": 6,
+       "name": "リンジー・ラディンズ"
+      },
+      {
+       "position": 2,
+       "number": 1,
+       "name": "鴫原 ひなた"
+      },
+      {
+       "position": 3,
+       "number": 21,
+       "name": "ヒネイリー・マルティネス"
+      },
+      {
+       "position": 4,
+       "number": 8,
+       "name": "佐藤 彩乃"
+      },
+      {
+       "position": 5,
+       "number": 14,
+       "name": "ラウラ・クンズラー"
+      },
+      {
+       "position": 6,
+       "number": 17,
+       "name": "中田 藍美"
+      }
+     ],
+     "grid": {
+      "top_row_numbers": [
+       8,
+       21,
+       1
+      ],
+      "bottom_row_numbers": [
+       14,
+       17,
+       6
+      ]
+     },
+     "liberos": [
+      {
+       "number": 12,
+       "name": "中村 悠",
+       "flag": "▲"
+      }
+     ],
+     "note": ""
+    },
+    {
+     "team": "アリーザ愛知",
+     "set": 4,
+     "starters": [
+      {
+       "position": 1,
+       "number": 1,
+       "name": "鴫原 ひなた"
+      },
+      {
+       "position": 2,
+       "number": 21,
+       "name": "ヒネイリー・マルティネス"
+      },
+      {
+       "position": 3,
+       "number": 8,
+       "name": "佐藤 彩乃"
+      },
+      {
+       "position": 4,
+       "number": 14,
+       "name": "ラウラ・クンズラー"
+      },
+      {
+       "position": 5,
+       "number": 17,
+       "name": "中田 藍美"
+      },
+      {
+       "position": 6,
+       "number": 6,
+       "name": "リンジー・ラディンズ"
+      }
+     ],
+     "grid": {
+      "top_row_numbers": [
+       14,
+       8,
+       21
+      ],
+      "bottom_row_numbers": [
+       17,
+       6,
+       1
+      ]
+     },
+     "liberos": [
+      {
+       "number": 12,
+       "name": "中村 悠",
+       "flag": "▲"
+      }
+     ],
+     "note": ""
+    },
+    {
+     "team": "アリーザ愛知",
+     "set": 5,
+     "starters": [
+      {
+       "position": 1,
+       "number": 8,
+       "name": "佐藤 彩乃"
+      },
+      {
+       "position": 2,
+       "number": 14,
+       "name": "ラウラ・クンズラー"
+      },
+      {
+       "position": 3,
+       "number": 5,
+       "name": "横田 紗椰香"
+      },
+      {
+       "position": 4,
+       "number": 6,
+       "name": "リンジー・ラディンズ"
+      },
+      {
+       "position": 5,
+       "number": 1,
+       "name": "鴫原 ひなた"
+      },
+      {
+       "position": 6,
+       "number": 21,
+       "name": "ヒネイリー・マルティネス"
+      }
+     ],
+     "grid": {
+      "top_row_numbers": [
+       6,
+       5,
+       14
+      ],
+      "bottom_row_numbers": [
+       1,
+       21,
+       8
+      ]
+     },
+     "liberos": [
+      {
+       "number": 12,
+       "name": "中村 悠",
+       "flag": "▲"
+      }
+     ],
+     "note": ""
+    }
+   ]
+  },
+  {
+   "id": 37505,
+   "round": 6,
+   "game": 2,
+   "date": "2026-11-22",
+   "weekday": "日",
+   "home": "PFUブルーキャッツ石川かほく",
+   "away": "埼玉上尾メディックス",
+   "venue": "とり野菜みそ BLUECATS ARENA",
+   "venue_note": "",
+   "status": "played",
+   "home_sets": 1,
+   "away_sets": 3,
+   "set_scores": [
+    "25-23",
+    "17-25",
+    "20-25",
+    "18-25"
+   ],
+   "note": "",
+   "detail_url": "https://www.svleague.jp/match/detail/37505/",
+   "form_b_url": "https://www.svleague.jp/match/form/?id=37505&sheet=b",
+   "lineups": [
+    {
+     "team": "PFUブルーキャッツ石川かほく",
+     "set": 1,
+     "starters": [
+      {
+       "position": 1,
+       "number": 11,
+       "name": "松井 珠己"
+      },
+      {
+       "position": 2,
+       "number": 12,
+       "name": "上村 杏菜"
+      },
+      {
+       "position": 3,
+       "number": 1,
+       "name": "横田 真未"
+      },
+      {
+       "position": 4,
+       "number": 23,
+       "name": "バルデス メリーサ"
+      },
+      {
+       "position": 5,
+       "number": 8,
+       "name": "大熊 紀妙"
+      },
+      {
+       "position": 6,
+       "number": 15,
+       "name": "タットダオ・ヌクジャン"
+      }
+     ],
+     "grid": {
+      "top_row_numbers": [
+       23,
+       1,
+       12
+      ],
+      "bottom_row_numbers": [
+       8,
+       15,
+       11
+      ]
+     },
+     "liberos": [
+      {
+       "number": 7,
+       "name": "舩田 璃々香",
+       "flag": "▲"
+      }
+     ],
+     "note": ""
+    },
+    {
+     "team": "PFUブルーキャッツ石川かほく",
+     "set": 2,
+     "starters": [
+      {
+       "position": 1,
+       "number": 11,
+       "name": "松井 珠己"
+      },
+      {
+       "position": 2,
+       "number": 12,
+       "name": "上村 杏菜"
+      },
+      {
+       "position": 3,
+       "number": 1,
+       "name": "横田 真未"
+      },
+      {
+       "position": 4,
+       "number": 23,
+       "name": "バルデス メリーサ"
+      },
+      {
+       "position": 5,
+       "number": 8,
+       "name": "大熊 紀妙"
+      },
+      {
+       "position": 6,
+       "number": 15,
+       "name": "タットダオ・ヌクジャン"
+      }
+     ],
+     "grid": {
+      "top_row_numbers": [
+       23,
+       1,
+       12
+      ],
+      "bottom_row_numbers": [
+       8,
+       15,
+       11
+      ]
+     },
+     "liberos": [
+      {
+       "number": 7,
+       "name": "舩田 璃々香",
+       "flag": "▲"
+      }
+     ],
+     "note": ""
+    },
+    {
+     "team": "PFUブルーキャッツ石川かほく",
+     "set": 3,
+     "starters": [
+      {
+       "position": 1,
+       "number": 11,
+       "name": "松井 珠己"
+      },
+      {
+       "position": 2,
+       "number": 9,
+       "name": "川添 美優"
+      },
+      {
+       "position": 3,
+       "number": 1,
+       "name": "横田 真未"
+      },
+      {
+       "position": 4,
+       "number": 23,
+       "name": "バルデス メリーサ"
+      },
+      {
+       "position": 5,
+       "number": 8,
+       "name": "大熊 紀妙"
+      },
+      {
+       "position": 6,
+       "number": 15,
+       "name": "タットダオ・ヌクジャン"
+      }
+     ],
+     "grid": {
+      "top_row_numbers": [
+       23,
+       1,
+       9
+      ],
+      "bottom_row_numbers": [
+       8,
+       15,
+       11
+      ]
+     },
+     "liberos": [
+      {
+       "number": 7,
+       "name": "舩田 璃々香",
+       "flag": "▲"
+      }
+     ],
+     "note": ""
+    },
+    {
+     "team": "PFUブルーキャッツ石川かほく",
+     "set": 4,
+     "starters": [
+      {
+       "position": 1,
+       "number": 11,
+       "name": "松井 珠己"
+      },
+      {
+       "position": 2,
+       "number": 12,
+       "name": "上村 杏菜"
+      },
+      {
+       "position": 3,
+       "number": 1,
+       "name": "横田 真未"
+      },
+      {
+       "position": 4,
+       "number": 23,
+       "name": "バルデス メリーサ"
+      },
+      {
+       "position": 5,
+       "number": 17,
+       "name": "ジャーリー・ウィンタース"
+      },
+      {
+       "position": 6,
+       "number": 15,
+       "name": "タットダオ・ヌクジャン"
+      }
+     ],
+     "grid": {
+      "top_row_numbers": [
+       23,
+       1,
+       12
+      ],
+      "bottom_row_numbers": [
+       17,
+       15,
+       11
+      ]
+     },
+     "liberos": [
+      {
+       "number": 7,
+       "name": "舩田 璃々香",
+       "flag": "▲"
+      }
+     ],
+     "note": ""
+    },
+    {
+     "team": "埼玉上尾メディックス",
+     "set": 1,
+     "starters": [
+      {
+       "position": 1,
+       "number": 2,
+       "name": "岩崎 こよみ"
+      },
+      {
+       "position": 2,
+       "number": 10,
+       "name": "金田 修佳"
+      },
+      {
+       "position": 3,
+       "number": 1,
+       "name": "山中 宏予"
+      },
+      {
+       "position": 4,
+       "number": 14,
+       "name": "オクム大庭 冬美ハウィ"
+      },
+      {
+       "position": 5,
+       "number": 19,
+       "name": "チャッチュオン・モクシー"
+      },
+      {
+       "position": 6,
+       "number": 7,
+       "name": "井上 奈々朱"
+      }
+     ],
+     "grid": {
+      "top_row_numbers": [
+       14,
+       1,
+       10
+      ],
+      "bottom_row_numbers": [
+       19,
+       7,
+       2
+      ]
+     },
+     "liberos": [
+      {
+       "number": 23,
+       "name": "ジダーパー・ナーワノン",
+       "flag": "▲"
+      }
+     ],
+     "note": ""
+    },
+    {
+     "team": "埼玉上尾メディックス",
+     "set": 2,
+     "starters": [
+      {
+       "position": 1,
+       "number": 2,
+       "name": "岩崎 こよみ"
+      },
+      {
+       "position": 2,
+       "number": 10,
+       "name": "金田 修佳"
+      },
+      {
+       "position": 3,
+       "number": 1,
+       "name": "山中 宏予"
+      },
+      {
+       "position": 4,
+       "number": 14,
+       "name": "オクム大庭 冬美ハウィ"
+      },
+      {
+       "position": 5,
+       "number": 19,
+       "name": "チャッチュオン・モクシー"
+      },
+      {
+       "position": 6,
+       "number": 7,
+       "name": "井上 奈々朱"
+      }
+     ],
+     "grid": {
+      "top_row_numbers": [
+       14,
+       1,
+       10
+      ],
+      "bottom_row_numbers": [
+       19,
+       7,
+       2
+      ]
+     },
+     "liberos": [
+      {
+       "number": 23,
+       "name": "ジダーパー・ナーワノン",
+       "flag": "▲"
+      }
+     ],
+     "note": ""
+    },
+    {
+     "team": "埼玉上尾メディックス",
+     "set": 3,
+     "starters": [
+      {
+       "position": 1,
+       "number": 2,
+       "name": "岩崎 こよみ"
+      },
+      {
+       "position": 2,
+       "number": 10,
+       "name": "金田 修佳"
+      },
+      {
+       "position": 3,
+       "number": 1,
+       "name": "山中 宏予"
+      },
+      {
+       "position": 4,
+       "number": 14,
+       "name": "オクム大庭 冬美ハウィ"
+      },
+      {
+       "position": 5,
+       "number": 19,
+       "name": "チャッチュオン・モクシー"
+      },
+      {
+       "position": 6,
+       "number": 7,
+       "name": "井上 奈々朱"
+      }
+     ],
+     "grid": {
+      "top_row_numbers": [
+       14,
+       1,
+       10
+      ],
+      "bottom_row_numbers": [
+       19,
+       7,
+       2
+      ]
+     },
+     "liberos": [
+      {
+       "number": 23,
+       "name": "ジダーパー・ナーワノン",
+       "flag": "▲"
+      }
+     ],
+     "note": ""
+    },
+    {
+     "team": "埼玉上尾メディックス",
+     "set": 4,
+     "starters": [
+      {
+       "position": 1,
+       "number": 2,
+       "name": "岩崎 こよみ"
+      },
+      {
+       "position": 2,
+       "number": 10,
+       "name": "金田 修佳"
+      },
+      {
+       "position": 3,
+       "number": 1,
+       "name": "山中 宏予"
+      },
+      {
+       "position": 4,
+       "number": 14,
+       "name": "オクム大庭 冬美ハウィ"
+      },
+      {
+       "position": 5,
+       "number": 19,
+       "name": "チャッチュオン・モクシー"
+      },
+      {
+       "position": 6,
+       "number": 7,
+       "name": "井上 奈々朱"
+      }
+     ],
+     "grid": {
+      "top_row_numbers": [
+       14,
+       1,
+       10
+      ],
+      "bottom_row_numbers": [
+       19,
+       7,
+       2
+      ]
+     },
+     "liberos": [
+      {
+       "number": 23,
+       "name": "ジダーパー・ナーワノン",
+       "flag": "▲"
+      }
+     ],
+     "note": ""
+    }
+   ]
+  },
+  {
+   "id": 37507,
+   "round": 6,
+   "game": 2,
+   "date": "2026-11-22",
+   "weekday": "日",
+   "home": "東レアローズ滋賀",
+   "away": "岡山シーガルズ",
+   "venue": "滋賀ダイハツアリーナ",
+   "venue_note": "",
+   "status": "played",
+   "home_sets": 1,
+   "away_sets": 3,
+   "set_scores": [
+    "22-25",
+    "25-22",
+    "24-26",
+    "13-25"
+   ],
+   "note": "",
+   "detail_url": "https://www.svleague.jp/match/detail/37507/",
+   "form_b_url": "https://www.svleague.jp/match/form/?id=37507&sheet=b",
+   "lineups": [
+    {
+     "team": "東レアローズ滋賀",
+     "set": 1,
+     "starters": [
+      {
+       "position": 1,
+       "number": 5,
+       "name": "花岡 千聡"
+      },
+      {
+       "position": 2,
+       "number": 9,
+       "name": "渡邉 かや"
+      },
+      {
+       "position": 3,
+       "number": 15,
+       "name": "林田 愛佳"
+      },
+      {
+       "position": 4,
+       "number": 11,
+       "name": "ジョセフィーン・オボッサ"
+      },
+      {
+       "position": 5,
+       "number": 22,
+       "name": "ヴェロニカ・シュラゴウスカ"
+      },
+      {
+       "position": 6,
+       "number": 2,
+       "name": "ディアナ・メリューシキナ"
+      }
+     ],
+     "grid": {
+      "top_row_numbers": [
+       11,
+       15,
+       9
+      ],
+      "bottom_row_numbers": [
+       22,
+       2,
+       5
+      ]
+     },
+     "liberos": [
+      {
+       "number": 1,
+       "name": "松岡 芽生",
+       "flag": "▲"
+      }
+     ],
+     "note": ""
+    },
+    {
+     "team": "東レアローズ滋賀",
+     "set": 2,
+     "starters": [
+      {
+       "position": 1,
+       "number": 9,
+       "name": "渡邉 かや"
+      },
+      {
+       "position": 2,
+       "number": 15,
+       "name": "林田 愛佳"
+      },
+      {
+       "position": 3,
+       "number": 11,
+       "name": "ジョセフィーン・オボッサ"
+      },
+      {
+       "position": 4,
+       "number": 22,
+       "name": "ヴェロニカ・シュラゴウスカ"
+      },
+      {
+       "position": 5,
+       "number": 2,
+       "name": "ディアナ・メリューシキナ"
+      },
+      {
+       "position": 6,
+       "number": 5,
+       "name": "花岡 千聡"
+      }
+     ],
+     "grid": {
+      "top_row_numbers": [
+       22,
+       11,
+       15
+      ],
+      "bottom_row_numbers": [
+       2,
+       5,
+       9
+      ]
+     },
+     "liberos": [
+      {
+       "number": 1,
+       "name": "松岡 芽生",
+       "flag": "▲"
+      }
+     ],
+     "note": ""
+    },
+    {
+     "team": "東レアローズ滋賀",
+     "set": 3,
+     "starters": [
+      {
+       "position": 1,
+       "number": 5,
+       "name": "花岡 千聡"
+      },
+      {
+       "position": 2,
+       "number": 9,
+       "name": "渡邉 かや"
+      },
+      {
+       "position": 3,
+       "number": 15,
+       "name": "林田 愛佳"
+      },
+      {
+       "position": 4,
+       "number": 11,
+       "name": "ジョセフィーン・オボッサ"
+      },
+      {
+       "position": 5,
+       "number": 22,
+       "name": "ヴェロニカ・シュラゴウスカ"
+      },
+      {
+       "position": 6,
+       "number": 2,
+       "name": "ディアナ・メリューシキナ"
+      }
+     ],
+     "grid": {
+      "top_row_numbers": [
+       11,
+       15,
+       9
+      ],
+      "bottom_row_numbers": [
+       22,
+       2,
+       5
+      ]
+     },
+     "liberos": [
+      {
+       "number": 1,
+       "name": "松岡 芽生",
+       "flag": "▲"
+      }
+     ],
+     "note": ""
+    },
+    {
+     "team": "東レアローズ滋賀",
+     "set": 4,
+     "starters": [
+      {
+       "position": 1,
+       "number": 9,
+       "name": "渡邉 かや"
+      },
+      {
+       "position": 2,
+       "number": 15,
+       "name": "林田 愛佳"
+      },
+      {
+       "position": 3,
+       "number": 11,
+       "name": "ジョセフィーン・オボッサ"
+      },
+      {
+       "position": 4,
+       "number": 22,
+       "name": "ヴェロニカ・シュラゴウスカ"
+      },
+      {
+       "position": 5,
+       "number": 2,
+       "name": "ディアナ・メリューシキナ"
+      },
+      {
+       "position": 6,
+       "number": 5,
+       "name": "花岡 千聡"
+      }
+     ],
+     "grid": {
+      "top_row_numbers": [
+       22,
+       11,
+       15
+      ],
+      "bottom_row_numbers": [
+       2,
+       5,
+       9
+      ]
+     },
+     "liberos": [
+      {
+       "number": 1,
+       "name": "松岡 芽生",
+       "flag": "▲"
+      }
+     ],
+     "note": ""
+    },
+    {
+     "team": "岡山シーガルズ",
+     "set": 1,
+     "starters": [
+      {
+       "position": 1,
+       "number": 1,
+       "name": "濱田 真友"
+      },
+      {
+       "position": 2,
+       "number": 33,
+       "name": "中本 柚朱"
+      },
+      {
+       "position": 3,
+       "number": 26,
+       "name": "長瀨 そら"
+      },
+      {
+       "position": 4,
+       "number": 5,
+       "name": "若泉 佳穂"
+      },
+      {
+       "position": 5,
+       "number": 2,
+       "name": "佐伯 亜魅加"
+      },
+      {
+       "position": 6,
+       "number": 27,
+       "name": "トラン・ティ・ビック・トゥイ"
+      }
+     ],
+     "grid": {
+      "top_row_numbers": [
+       5,
+       26,
+       33
+      ],
+      "bottom_row_numbers": [
+       2,
+       27,
+       1
+      ]
+     },
+     "liberos": [
+      {
+       "number": 11,
+       "name": "城戸 陽菜",
+       "flag": "▲"
+      },
+      {
+       "number": 16,
+       "name": "齋藤 麻理菜",
+       "flag": "▲"
+      }
+     ],
+     "note": ""
+    },
+    {
+     "team": "岡山シーガルズ",
+     "set": 2,
+     "starters": [
+      {
+       "position": 1,
+       "number": 1,
+       "name": "濱田 真友"
+      },
+      {
+       "position": 2,
+       "number": 33,
+       "name": "中本 柚朱"
+      },
+      {
+       "position": 3,
+       "number": 26,
+       "name": "長瀨 そら"
+      },
+      {
+       "position": 4,
+       "number": 5,
+       "name": "若泉 佳穂"
+      },
+      {
+       "position": 5,
+       "number": 2,
+       "name": "佐伯 亜魅加"
+      },
+      {
+       "position": 6,
+       "number": 27,
+       "name": "トラン・ティ・ビック・トゥイ"
+      }
+     ],
+     "grid": {
+      "top_row_numbers": [
+       5,
+       26,
+       33
+      ],
+      "bottom_row_numbers": [
+       2,
+       27,
+       1
+      ]
+     },
+     "liberos": [
+      {
+       "number": 11,
+       "name": "城戸 陽菜",
+       "flag": "▲"
+      },
+      {
+       "number": 16,
+       "name": "齋藤 麻理菜",
+       "flag": "▲"
+      }
+     ],
+     "note": ""
+    },
+    {
+     "team": "岡山シーガルズ",
+     "set": 3,
+     "starters": [
+      {
+       "position": 1,
+       "number": 1,
+       "name": "濱田 真友"
+      },
+      {
+       "position": 2,
+       "number": 33,
+       "name": "中本 柚朱"
+      },
+      {
+       "position": 3,
+       "number": 26,
+       "name": "長瀨 そら"
+      },
+      {
+       "position": 4,
+       "number": 5,
+       "name": "若泉 佳穂"
+      },
+      {
+       "position": 5,
+       "number": 2,
+       "name": "佐伯 亜魅加"
+      },
+      {
+       "position": 6,
+       "number": 27,
+       "name": "トラン・ティ・ビック・トゥイ"
+      }
+     ],
+     "grid": {
+      "top_row_numbers": [
+       5,
+       26,
+       33
+      ],
+      "bottom_row_numbers": [
+       2,
+       27,
+       1
+      ]
+     },
+     "liberos": [
+      {
+       "number": 11,
+       "name": "城戸 陽菜",
+       "flag": "▲"
+      },
+      {
+       "number": 16,
+       "name": "齋藤 麻理菜",
+       "flag": "▲"
+      }
+     ],
+     "note": ""
+    },
+    {
+     "team": "岡山シーガルズ",
+     "set": 4,
+     "starters": [
+      {
+       "position": 1,
+       "number": 1,
+       "name": "濱田 真友"
+      },
+      {
+       "position": 2,
+       "number": 2,
+       "name": "佐伯 亜魅加"
+      },
+      {
+       "position": 3,
+       "number": 26,
+       "name": "長瀨 そら"
+      },
+      {
+       "position": 4,
+       "number": 5,
+       "name": "若泉 佳穂"
+      },
+      {
+       "position": 5,
+       "number": 7,
+       "name": "ジェイド・エライザ・ライト"
+      },
+      {
+       "position": 6,
+       "number": 27,
+       "name": "トラン・ティ・ビック・トゥイ"
+      }
+     ],
+     "grid": {
+      "top_row_numbers": [
+       5,
+       26,
+       2
+      ],
+      "bottom_row_numbers": [
+       7,
+       27,
+       1
+      ]
+     },
+     "liberos": [
+      {
+       "number": 11,
+       "name": "城戸 陽菜",
+       "flag": "▲"
+      },
+      {
+       "number": 16,
+       "name": "齋藤 麻理菜",
+       "flag": "▲"
+      }
+     ],
+     "note": ""
+    }
+   ]
+  },
+  {
+   "id": 37509,
+   "round": 6,
+   "game": 2,
+   "date": "2026-11-22",
+   "weekday": "日",
+   "home": "大阪マーヴェラス",
+   "away": "ＫＵＲＯＢＥアクアフェアリーズ富山",
+   "venue": "おおきにアリーナ舞洲",
+   "venue_note": "",
+   "status": "played",
+   "home_sets": 0,
+   "away_sets": 3,
+   "set_scores": [
+    "15-25",
+    "23-25",
+    "22-25"
+   ],
+   "note": "",
+   "detail_url": "https://www.svleague.jp/match/detail/37509/",
+   "form_b_url": "https://www.svleague.jp/match/form/?id=37509&sheet=b",
+   "lineups": [
+    {
+     "team": "大阪マーヴェラス",
+     "set": 1,
+     "starters": [
+      {
+       "position": 1,
+       "number": 6,
+       "name": "田中 瑞稀"
+      },
+      {
+       "position": 2,
+       "number": 9,
+       "name": "ブリオンヌ・バトラー"
+      },
+      {
+       "position": 3,
+       "number": 12,
+       "name": "ハンナ・オルトマン"
+      },
+      {
+       "position": 4,
+       "number": 2,
+       "name": "林 琴奈"
+      },
+      {
+       "position": 5,
+       "number": 1,
+       "name": "青柳 京古"
+      },
+      {
+       "position": 6,
+       "number": 7,
+       "name": "東 美奈"
+      }
+     ],
+     "grid": {
+      "top_row_numbers": [
+       2,
+       12,
+       9
+      ],
+      "bottom_row_numbers": [
+       1,
+       7,
+       6
+      ]
+     },
+     "liberos": [
+      {
+       "number": 10,
+       "name": "西崎 愛菜",
+       "flag": "▲"
+      }
+     ],
+     "note": ""
+    },
+    {
+     "team": "大阪マーヴェラス",
+     "set": 2,
+     "starters": [
+      {
+       "position": 1,
+       "number": 15,
+       "name": "グレイシー・ヴァスコンセロス"
+      },
+      {
+       "position": 2,
+       "number": 9,
+       "name": "ブリオンヌ・バトラー"
+      },
+      {
+       "position": 3,
+       "number": 12,
+       "name": "ハンナ・オルトマン"
+      },
+      {
+       "position": 4,
+       "number": 2,
+       "name": "林 琴奈"
+      },
+      {
+       "position": 5,
+       "number": 1,
+       "name": "青柳 京古"
+      },
+      {
+       "position": 6,
+       "number": 4,
+       "name": "塩出 仁美"
+      }
+     ],
+     "grid": {
+      "top_row_numbers": [
+       2,
+       12,
+       9
+      ],
+      "bottom_row_numbers": [
+       1,
+       4,
+       15
+      ]
+     },
+     "liberos": [
+      {
+       "number": 10,
+       "name": "西崎 愛菜",
+       "flag": "▲"
+      }
+     ],
+     "note": ""
+    },
+    {
+     "team": "大阪マーヴェラス",
+     "set": 3,
+     "starters": [
+      {
+       "position": 1,
+       "number": 15,
+       "name": "グレイシー・ヴァスコンセロス"
+      },
+      {
+       "position": 2,
+       "number": 9,
+       "name": "ブリオンヌ・バトラー"
+      },
+      {
+       "position": 3,
+       "number": 12,
+       "name": "ハンナ・オルトマン"
+      },
+      {
+       "position": 4,
+       "number": 2,
+       "name": "林 琴奈"
+      },
+      {
+       "position": 5,
+       "number": 8,
+       "name": "大山 遼"
+      },
+      {
+       "position": 6,
+       "number": 4,
+       "name": "塩出 仁美"
+      }
+     ],
+     "grid": {
+      "top_row_numbers": [
+       2,
+       12,
+       9
+      ],
+      "bottom_row_numbers": [
+       8,
+       4,
+       15
+      ]
+     },
+     "liberos": [
+      {
+       "number": 10,
+       "name": "西崎 愛菜",
+       "flag": "▲"
+      }
+     ],
+     "note": ""
+    },
+    {
+     "team": "ＫＵＲＯＢＥアクアフェアリーズ富山",
+     "set": 1,
+     "starters": [
+      {
+       "position": 1,
+       "number": 11,
+       "name": "中川 美柚"
+      },
+      {
+       "position": 2,
+       "number": 10,
+       "name": "山口 真季"
+      },
+      {
+       "position": 3,
+       "number": 16,
+       "name": "龔 翔宇"
+      },
+      {
+       "position": 4,
+       "number": 77,
+       "name": "ジョバンナ・デイ"
+      },
+      {
+       "position": 5,
+       "number": 7,
+       "name": "アナスタシア・リャシュコ"
+      },
+      {
+       "position": 6,
+       "number": 4,
+       "name": "安田 美南"
+      }
+     ],
+     "grid": {
+      "top_row_numbers": [
+       77,
+       16,
+       10
+      ],
+      "bottom_row_numbers": [
+       7,
+       4,
+       11
+      ]
+     },
+     "liberos": [
+      {
+       "number": 17,
+       "name": "浦山 絢妃",
+       "flag": "▲"
+      }
+     ],
+     "note": ""
+    },
+    {
+     "team": "ＫＵＲＯＢＥアクアフェアリーズ富山",
+     "set": 2,
+     "starters": [
+      {
+       "position": 1,
+       "number": 4,
+       "name": "安田 美南"
+      },
+      {
+       "position": 2,
+       "number": 11,
+       "name": "中川 美柚"
+      },
+      {
+       "position": 3,
+       "number": 10,
+       "name": "山口 真季"
+      },
+      {
+       "position": 4,
+       "number": 16,
+       "name": "龔 翔宇"
+      },
+      {
+       "position": 5,
+       "number": 77,
+       "name": "ジョバンナ・デイ"
+      },
+      {
+       "position": 6,
+       "number": 7,
+       "name": "アナスタシア・リャシュコ"
+      }
+     ],
+     "grid": {
+      "top_row_numbers": [
+       16,
+       10,
+       11
+      ],
+      "bottom_row_numbers": [
+       77,
+       7,
+       4
+      ]
+     },
+     "liberos": [
+      {
+       "number": 17,
+       "name": "浦山 絢妃",
+       "flag": "▲"
+      }
+     ],
+     "note": ""
+    },
+    {
+     "team": "ＫＵＲＯＢＥアクアフェアリーズ富山",
+     "set": 3,
+     "starters": [
+      {
+       "position": 1,
+       "number": 11,
+       "name": "中川 美柚"
+      },
+      {
+       "position": 2,
+       "number": 10,
+       "name": "山口 真季"
+      },
+      {
+       "position": 3,
+       "number": 16,
+       "name": "龔 翔宇"
+      },
+      {
+       "position": 4,
+       "number": 77,
+       "name": "ジョバンナ・デイ"
+      },
+      {
+       "position": 5,
+       "number": 7,
+       "name": "アナスタシア・リャシュコ"
+      },
+      {
+       "position": 6,
+       "number": 4,
+       "name": "安田 美南"
+      }
+     ],
+     "grid": {
+      "top_row_numbers": [
+       77,
+       16,
+       10
+      ],
+      "bottom_row_numbers": [
+       7,
+       4,
+       11
+      ]
+     },
+     "liberos": [
+      {
+       "number": 17,
+       "name": "浦山 絢妃",
+       "flag": "▲"
+      }
+     ],
+     "note": ""
+    }
+   ]
+  },
+  {
+   "id": 37511,
+   "round": 6,
+   "game": 2,
+   "date": "2026-11-22",
+   "weekday": "日",
+   "home": "SAGA久光スプリングス",
+   "away": "アランマーレ秋田庄内",
+   "venue": "SAGAアリーナ",
+   "venue_note": "",
+   "status": "played",
+   "home_sets": 3,
+   "away_sets": 0,
+   "set_scores": [
+    "25-20",
+    "25-10",
+    "25-19"
+   ],
+   "note": "",
+   "detail_url": "https://www.svleague.jp/match/detail/37511/",
+   "form_b_url": "https://www.svleague.jp/match/form/?id=37511&sheet=b",
+   "lineups": [
+    {
+     "team": "SAGA久光スプリングス",
+     "set": 1,
+     "starters": [
+      {
+       "position": 1,
+       "number": 11,
+       "name": "栄 絵里香"
+      },
+      {
+       "position": 2,
+       "number": 3,
+       "name": "北窓 絢音"
+      },
+      {
+       "position": 3,
+       "number": 2,
+       "name": "荒木 彩花"
+      },
+      {
+       "position": 4,
+       "number": 4,
+       "name": "マルタ・ラヴィンスカ"
+      },
+      {
+       "position": 5,
+       "number": 18,
+       "name": "アナスタシア・スタルナヤ"
+      },
+      {
+       "position": 6,
+       "number": 21,
+       "name": "山下 遥華"
+      }
+     ],
+     "grid": {
+      "top_row_numbers": [
+       4,
+       2,
+       3
+      ],
+      "bottom_row_numbers": [
+       18,
+       21,
+       11
+      ]
+     },
+     "liberos": [
+      {
+       "number": 7,
+       "name": "西村 弥菜美",
+       "flag": "▲"
+      },
+      {
+       "number": 20,
+       "name": "高橋 葵",
+       "flag": "▲"
+      }
+     ],
+     "note": ""
+    },
+    {
+     "team": "SAGA久光スプリングス",
+     "set": 2,
+     "starters": [
+      {
+       "position": 1,
+       "number": 11,
+       "name": "栄 絵里香"
+      },
+      {
+       "position": 2,
+       "number": 3,
+       "name": "北窓 絢音"
+      },
+      {
+       "position": 3,
+       "number": 2,
+       "name": "荒木 彩花"
+      },
+      {
+       "position": 4,
+       "number": 4,
+       "name": "マルタ・ラヴィンスカ"
+      },
+      {
+       "position": 5,
+       "number": 18,
+       "name": "アナスタシア・スタルナヤ"
+      },
+      {
+       "position": 6,
+       "number": 21,
+       "name": "山下 遥華"
+      }
+     ],
+     "grid": {
+      "top_row_numbers": [
+       4,
+       2,
+       3
+      ],
+      "bottom_row_numbers": [
+       18,
+       21,
+       11
+      ]
+     },
+     "liberos": [
+      {
+       "number": 7,
+       "name": "西村 弥菜美",
+       "flag": "▲"
+      },
+      {
+       "number": 20,
+       "name": "高橋 葵",
+       "flag": "▲"
+      }
+     ],
+     "note": ""
+    },
+    {
+     "team": "SAGA久光スプリングス",
+     "set": 3,
+     "starters": [
+      {
+       "position": 1,
+       "number": 11,
+       "name": "栄 絵里香"
+      },
+      {
+       "position": 2,
+       "number": 3,
+       "name": "北窓 絢音"
+      },
+      {
+       "position": 3,
+       "number": 2,
+       "name": "荒木 彩花"
+      },
+      {
+       "position": 4,
+       "number": 4,
+       "name": "マルタ・ラヴィンスカ"
+      },
+      {
+       "position": 5,
+       "number": 18,
+       "name": "アナスタシア・スタルナヤ"
+      },
+      {
+       "position": 6,
+       "number": 21,
+       "name": "山下 遥華"
+      }
+     ],
+     "grid": {
+      "top_row_numbers": [
+       4,
+       2,
+       3
+      ],
+      "bottom_row_numbers": [
+       18,
+       21,
+       11
+      ]
+     },
+     "liberos": [
+      {
+       "number": 7,
+       "name": "西村 弥菜美",
+       "flag": "▲"
+      },
+      {
+       "number": 20,
+       "name": "高橋 葵",
+       "flag": "▲"
+      }
+     ],
+     "note": ""
+    },
+    {
+     "team": "アランマーレ秋田庄内",
+     "set": 1,
+     "starters": [
+      {
+       "position": 1,
+       "number": 12,
+       "name": "光広 のぞみ"
+      },
+      {
+       "position": 2,
+       "number": 28,
+       "name": "インディグウェ シンディ 千想夢"
+      },
+      {
+       "position": 3,
+       "number": 19,
+       "name": "小川 真央"
+      },
+      {
+       "position": 4,
+       "number": 16,
+       "name": "マリア・プリシラ・シュレーゲル・モセギ"
+      },
+      {
+       "position": 5,
+       "number": 10,
+       "name": "川釣 奈津"
+      },
+      {
+       "position": 6,
+       "number": 6,
+       "name": "加地 春花"
+      }
+     ],
+     "grid": {
+      "top_row_numbers": [
+       16,
+       19,
+       28
+      ],
+      "bottom_row_numbers": [
+       10,
+       6,
+       12
+      ]
+     },
+     "liberos": [
+      {
+       "number": 11,
+       "name": "田中 麻帆",
+       "flag": "▲"
+      }
+     ],
+     "note": ""
+    },
+    {
+     "team": "アランマーレ秋田庄内",
+     "set": 2,
+     "starters": [
+      {
+       "position": 1,
+       "number": 12,
+       "name": "光広 のぞみ"
+      },
+      {
+       "position": 2,
+       "number": 28,
+       "name": "インディグウェ シンディ 千想夢"
+      },
+      {
+       "position": 3,
+       "number": 19,
+       "name": "小川 真央"
+      },
+      {
+       "position": 4,
+       "number": 16,
+       "name": "マリア・プリシラ・シュレーゲル・モセギ"
+      },
+      {
+       "position": 5,
+       "number": 10,
+       "name": "川釣 奈津"
+      },
+      {
+       "position": 6,
+       "number": 6,
+       "name": "加地 春花"
+      }
+     ],
+     "grid": {
+      "top_row_numbers": [
+       16,
+       19,
+       28
+      ],
+      "bottom_row_numbers": [
+       10,
+       6,
+       12
+      ]
+     },
+     "liberos": [
+      {
+       "number": 11,
+       "name": "田中 麻帆",
+       "flag": "▲"
+      }
+     ],
+     "note": ""
+    },
+    {
+     "team": "アランマーレ秋田庄内",
+     "set": 3,
+     "starters": [
+      {
+       "position": 1,
+       "number": 27,
+       "name": "有村 涼美"
+      },
+      {
+       "position": 2,
+       "number": 28,
+       "name": "インディグウェ シンディ 千想夢"
+      },
+      {
+       "position": 3,
+       "number": 12,
+       "name": "光広 のぞみ"
+      },
+      {
+       "position": 4,
+       "number": 16,
+       "name": "マリア・プリシラ・シュレーゲル・モセギ"
+      },
+      {
+       "position": 5,
+       "number": 1,
+       "name": "大元 朱菜"
+      },
+      {
+       "position": 6,
+       "number": 6,
+       "name": "加地 春花"
+      }
+     ],
+     "grid": {
+      "top_row_numbers": [
+       16,
+       12,
+       28
+      ],
+      "bottom_row_numbers": [
+       1,
+       6,
+       27
+      ]
+     },
+     "liberos": [
+      {
+       "number": 11,
+       "name": "田中 麻帆",
+       "flag": "▲"
+      }
+     ],
+     "note": ""
+    }
+   ]
   }
  ]
 }
